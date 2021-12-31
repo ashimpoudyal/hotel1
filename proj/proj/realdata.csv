@@ -1,0 +1,2064 @@
+ID,NAME,HOTEL ID,HOTEL NAME,LOCATION,RATING
+1,Rekha Poudel,1,Hotel Shanker,Kathmandu,3
+2,Renuka Dhakal,1,Hotel Shanker,Kathmandu,4
+3,Rewat Kumar Rai,1,Hotel Shanker,Kathmandu,3
+4,Richa Maharjan,1,Hotel Shanker,Kathmandu,2
+5,Rijan Paudyal,1,Hotel Shanker,Kathmandu,2
+6,Rishikesh Gnawali,1,Hotel Shanker,Kathmandu,3
+7,Rita Thapa,1,Hotel Shanker,Kathmandu,3
+4,Richa Maharjan,2,Kathmandu Eco Hotel,Kathmandu,5
+5,Rijan Paudyal,2,Kathmandu Eco Hotel,Kathmandu,4
+6,Rishikesh Gnawali,2,Kathmandu Eco Hotel,Kathmandu,3
+7,Rita Thapa,2,Kathmandu Eco Hotel,Kathmandu,3
+8,Robin Gautam,2,Kathmandu Eco Hotel,Kathmandu,4
+9,Rojan Gurung,2,Kathmandu Eco Hotel,Kathmandu,5
+10,Ronish Karki,2,Kathmandu Eco Hotel,Kathmandu,4
+11,Roshan Baniya,2,Kathmandu Eco Hotel,Kathmandu,3
+24,Sadhana Bagale,2,Kathmandu Eco Hotel,Kathmandu,3
+20,Sabina Basnet,2,Kathmandu Eco Hotel,Kathmandu,4
+28,Sameer Manandhar,2,Kathmandu Eco Hotel,Kathmandu,3
+1,Rekha Poudel,2,Kathmandu Eco Hotel,Kathmandu,3
+30,Samir Shrestha,2,Kathmandu Eco Hotel,Kathmandu,2
+36,Sanjay Kumar Yadav,2,Kathmandu Eco Hotel,Kathmandu,3
+25,Sagar Nath Yogi,2,Kathmandu Eco Hotel,Kathmandu,4
+40,Santosh Kumar Yadav,1,Hotel Shanker,Kathmandu,3
+79,Surya Prasad Rimal,1,Hotel Shanker,Kathmandu,3
+45,Shimon Shakya,1,Hotel Shanker,Kathmandu,
+84,Upendra Dahal,1,Hotel Shanker,Kathmandu,3
+43,Shanta Giri,1,Hotel Shanker,Kathmandu,2
+95, Rabindra Shrestha ,1,Hotel Shanker,Kathmandu,3
+92, Nabin Subba ,1,Hotel Shanker,Kathmandu,4
+19,Rupak Bista,3,Hotel Jampa,Kathmandu,4
+78,Suresh Raj Bakhrel,3,Hotel Jampa,Kathmandu,2
+91,Yubraj Tripathi,3,Hotel Jampa,Kathmandu,2
+87,Yagya Prasad Aryal,3,Hotel Jampa,Kathmandu,2
+44,Sharada Paudel,3,Hotel Jampa,Kathmandu,2
+90,Yubaraj Panday,3,Hotel Jampa,Kathmandu,3
+88,Yashoda Poudel (Subedi),3,Hotel Jampa,Kathmandu,3
+93, Ashutosh Kharel ,3,Hotel Jampa,Kathmandu,4
+34,Sangita Bhattarai,3,Hotel Jampa,Kathmandu,4
+96, Laxmi Lopchan Tamang ,3,Hotel Jampa,Kathmandu,4
+95, Rabindra Shrestha ,4,Apsara Boutique hotel,Kathmandu,2
+55,Sita Bhattarai,3,Hotel Jampa,Kathmandu,2
+70,Sunil Maharjan,3,Hotel Jampa,Kathmandu,2
+27,Sajan Kunwar,3,Hotel Jampa,Kathmandu,5
+71,Sunita Adhikari,3,Hotel Jampa,Kathmandu,3
+31,Samjhana Dahal,4,Apsara Boutique hotel,Kathmandu,2
+46,Shital Sharma,4,Apsara Boutique hotel,Kathmandu,2
+58,Sonika Adhikari,4,Apsara Boutique hotel,Kathmandu,
+37,Santosh Dhakal,4,Apsara Boutique hotel,Kathmandu,3
+21,Sabina Pokhrel,4,Apsara Boutique hotel,Kathmandu,
+42,Shaili Khadka,4,Apsara Boutique hotel,Kathmandu,4
+59,Subash Acharya,4,Apsara Boutique hotel,Kathmandu,4
+29,Samir Chaulagain,4,Apsara Boutique hotel,Kathmandu,3
+38,Santosh Ghimire,4,Apsara Boutique hotel,Kathmandu,3
+72,Sunita Gautam,4,Apsara Boutique hotel,Kathmandu,4
+39,Santosh Karki,4,Apsara Boutique hotel,Kathmandu,3
+69,Sumitra Shrestha,4,Apsara Boutique hotel,Kathmandu,
+50,Shreejana Shrestha,4,Apsara Boutique hotel,Kathmandu,3
+80,Sushil Bhattrai,4,Apsara Boutique hotel,Kathmandu,4
+32,Sampada Bhurtel,4,Apsara Boutique hotel,Kathmandu,
+83,Umesh Dahal,4,Apsara Boutique hotel,Kathmandu,
+89,Yasoda Nepal,5,Hotel Sweet Dreams,Kathmandu,3
+47,Shiva Prasad Pandit,5,Hotel Sweet Dreams,Kathmandu,4
+81,Thakur Nepal,5,Hotel Sweet Dreams,Kathmandu,3
+54,Sirjana Darlami,5,Hotel Sweet Dreams,Kathmandu,3
+68,Sumitra Bajgain Sapkota,5,Hotel Sweet Dreams,Kathmandu,4
+85,Upendra Kumar Shah,5,Hotel Sweet Dreams,Kathmandu,3
+60,Subash Dahal,5,Hotel Sweet Dreams,Kathmandu,2
+87,Yagya Prasad Aryal,5,Hotel Sweet Dreams,Kathmandu,4
+33,Sandesh Pokhrel,5,Hotel Sweet Dreams,Kathmandu,2
+63,Sujan Regmi,5,Hotel Sweet Dreams,Kathmandu,4
+77,Suresh Lage,5,Hotel Sweet Dreams,Kathmandu,3
+51,Shyam Neupane,5,Hotel Sweet Dreams,Kathmandu,3
+64,Sujita Napit,5,Hotel Sweet Dreams,Kathmandu,3
+48,Shrawan Kumar Newa Khadgi,5,Hotel Sweet Dreams,Kathmandu,2
+67,Sumitra Adhikari,5,Hotel Sweet Dreams,Kathmandu,2
+61,Subhadra Rai,5,Hotel Sweet Dreams,Kathmandu,3
+76,Surendra Singh Dhami,5,Hotel Sweet Dreams,Kathmandu,3
+49,Shreejana Humagain,5,Hotel Sweet Dreams,Kathmandu,3
+92, Nabin Subba ,6,Hotel meridian suite,Kathmandu,4
+53,Siddhi Kumar Shrestha,6,Hotel meridian suite,Kathmandu,3
+94, Rupa Shrestha ,6,Hotel meridian suite,Kathmandu,3
+93, Ashutosh Kharel ,6,Hotel meridian suite,Kathmandu,2
+23,Sabita Siwakoti,6,Hotel meridian suite,Kathmandu,3
+97, Kanchha Man Lama Moktan ,6,Hotel meridian suite,Kathmandu,3
+26,Sagar Shrestha,6,Hotel meridian suite,Kathmandu,2
+79,Surya Prasad Rimal,6,Hotel meridian suite,Kathmandu,3
+95, Rabindra Shrestha ,6,Hotel meridian suite,Kathmandu,3
+99, Bina Tamang ,6,Hotel meridian suite,Kathmandu,2
+86,Usha Acharya,6,Hotel meridian suite,Kathmandu,3
+56,Siyaram Sah,6,Hotel meridian suite,Kathmandu,4
+75,Surendra Shahi,6,Hotel meridian suite,Kathmandu,3
+57,Som Bahadur Karki,6,Hotel meridian suite,Kathmandu,3
+82,Tika Ram Adhikari,6,Hotel meridian suite,Kathmandu,2
+22,Sabina Shrestha,6,Hotel meridian suite,Kathmandu,3
+98, Shanti Pun Magar ,6,Hotel meridian suite,Kathmandu,3
+52,Shyam Prasad Dahal,6,Hotel meridian suite,Kathmandu,4
+36,Sanjay Kumar Yadav,7,Oasis Kathmandu Hotel,Kathmandu,3
+99, Bina Tamang ,7,Oasis Kathmandu Hotel,Kathmandu,3
+95, Rabindra Shrestha ,7,Oasis Kathmandu Hotel,Kathmandu,2
+73,Sunita Kumari Bam,7,Oasis Kathmandu Hotel,Kathmandu,2
+30,Samir Shrestha,9,Kumari Botique Hotel,Kathmandu,3
+96, Laxmi Lopchan Tamang ,7,Oasis Kathmandu Hotel,Kathmandu,3
+9,Rojan Gurung,7,Oasis Kathmandu Hotel,Kathmandu,4
+70,Sunil Maharjan,7,Oasis Kathmandu Hotel,Kathmandu,4
+65,Suman Adhikari,7,Oasis Kathmandu Hotel,Kathmandu,3
+74,Sunita Neupane,7,Oasis Kathmandu Hotel,Kathmandu,3
+93, Ashutosh Kharel ,7,Oasis Kathmandu Hotel,Kathmandu,2
+41,Saroj Sapkota,7,Oasis Kathmandu Hotel,Kathmandu,2
+85,Upendra Kumar Shah,7,Oasis Kathmandu Hotel,Kathmandu,2
+91,Yubraj Tripathi,7,Oasis Kathmandu Hotel,Kathmandu,2
+19,Rupak Bista,7,Oasis Kathmandu Hotel,Kathmandu,2
+78,Suresh Raj Bakhrel,7,Oasis Kathmandu Hotel,Kathmandu,3
+66,Suman Kumar Shrestha,8,Kathmandu Botique Hotel,Kathmandu,3
+97, Kanchha Man Lama Moktan ,8,Kathmandu Botique Hotel,Kathmandu,4
+2,Renuka Dhakal,8,Kathmandu Botique Hotel,Kathmandu,4
+99, Bina Tamang ,8,Kathmandu Botique Hotel,Kathmandu,3
+80,Sushil Bhattrai,8,Kathmandu Botique Hotel,Kathmandu,4
+96, Laxmi Lopchan Tamang ,8,Kathmandu Botique Hotel,Kathmandu,2
+92, Nabin Subba ,8,Kathmandu Botique Hotel,Kathmandu,3
+39,Santosh Karki,8,Kathmandu Botique Hotel,Kathmandu,4
+84,Upendra Dahal,8,Kathmandu Botique Hotel,Kathmandu,3
+95, Rabindra Shrestha ,8,Kathmandu Botique Hotel,Kathmandu,3
+79,Surya Prasad Rimal,8,Kathmandu Botique Hotel,Kathmandu,3
+5,Rijan Paudyal,8,Kathmandu Botique Hotel,Kathmandu,2
+71,Sunita Adhikari,8,Kathmandu Botique Hotel,Kathmandu,3
+60,Subash Dahal,8,Kathmandu Botique Hotel,Kathmandu,4
+31,Samjhana Dahal,8,Kathmandu Botique Hotel,Kathmandu,5
+45,Shimon Shakya,8,Kathmandu Botique Hotel,Kathmandu,
+37,Santosh Dhakal,9,Kumari Botique Hotel,Kathmandu,3
+26,Sagar Shrestha,9,Kumari Botique Hotel,Kathmandu,3
+62,Sudip Kumar Sah,9,Kumari Botique Hotel,Kathmandu,4
+35,Sanjay Kumar Mahato,9,Kumari Botique Hotel,Kathmandu,2
+77,Suresh Lage,9,Kumari Botique Hotel,Kathmandu,2
+7,Rita Thapa,9,Kumari Botique Hotel,Kathmandu,3
+72,Sunita Gautam,9,Kumari Botique Hotel,Kathmandu,3
+67,Sumitra Adhikari,9,Kumari Botique Hotel,Kathmandu,2
+88,Yashoda Poudel (Subedi),9,Kumari Botique Hotel,Kathmandu,4
+69,Sumitra Shrestha,9,Kumari Botique Hotel,Kathmandu,4
+89,Yasoda Nepal,9,Kumari Botique Hotel,Kathmandu,3
+3,Rewat Kumar Rai,9,Kumari Botique Hotel,Kathmandu,3
+38,Santosh Ghimire,9,Kumari Botique Hotel,Kathmandu,3
+94, Rupa Shrestha ,9,Kumari Botique Hotel,Kathmandu,4
+28,Sameer Manandhar,9,Kumari Botique Hotel,Kathmandu,3
+55,Sita Bhattarai,9,Kumari Botique Hotel,Kathmandu,2
+10,Ronish Karki,9,Kumari Botique Hotel,Kathmandu,2
+54,Sirjana Darlami,9,Kumari Botique Hotel,Kathmandu,3
+46,Shital Sharma,10,Gauri Hotel,Kathmandu,3
+68,Sumitra Bajgain Sapkota,10,Gauri Hotel,Kathmandu,4
+43,Shanta Giri,10,Gauri Hotel,Kathmandu,2
+24,Sadhana Bagale,10,Gauri Hotel,Kathmandu,3
+33,Sandesh Pokhrel,10,Gauri Hotel,Kathmandu,3
+25,Sagar Nath Yogi,10,Gauri Hotel,Kathmandu,2
+59,Subash Acharya,10,Gauri Hotel,Kathmandu,3
+51,Shyam Neupane,10,Gauri Hotel,Kathmandu,4
+4,Richa Maharjan,10,Gauri Hotel,Kathmandu,3
+48,Shrawan Kumar Newa Khadgi,10,Gauri Hotel,Kathmandu,3
+52,Shyam Prasad Dahal,10,Gauri Hotel,Kathmandu,4
+34,Sangita Bhattarai,10,Gauri Hotel,Kathmandu,3
+23,Sabita Siwakoti,10,Gauri Hotel,Kathmandu,3
+50,Shreejana Shrestha,10,Gauri Hotel,Kathmandu,4
+32,Sampada Bhurtel,10,Gauri Hotel,Kathmandu,2
+12,Roshan Karkee,11,Marriot Hotel,Kathmandu,3
+11,Roshan Baniya,11,Marriot Hotel,Kathmandu,3
+76,Surendra Singh Dhami,11,Marriot Hotel,Kathmandu,4
+44,Sharada Paudel,11,Marriot Hotel,Kathmandu,4
+81,Thakur Nepal,11,Marriot Hotel,Kathmandu,3
+8,Robin Gautam,11,Marriot Hotel,Kathmandu,2
+65,Suman Adhikari,11,Marriot Hotel,Kathmandu,3
+74,Sunita Neupane,11,Marriot Hotel,Kathmandu,4
+86,Usha Acharya,11,Marriot Hotel,Kathmandu,5
+58,Sonika Adhikari,11,Marriot Hotel,Kathmandu,4
+42,Shaili Khadka,11,Marriot Hotel,Kathmandu,3
+57,Som Bahadur Karki,11,Marriot Hotel,Kathmandu,3
+22,Sabina Shrestha,11,Marriot Hotel,Kathmandu,2
+87,Yagya Prasad Aryal,11,Marriot Hotel,Kathmandu,3
+64,Sujita Napit,11,Marriot Hotel,Kathmandu,4
+6,Rishikesh Gnawali,11,Marriot Hotel,Kathmandu,3
+96, Laxmi Lopchan Tamang ,11,Marriot Hotel,Kathmandu,2
+61,Subhadra Rai,12,Dwarika Hotel,Kathmandu,3
+29,Samir Chaulagain,12,Dwarika Hotel,Kathmandu,3
+92, Nabin Subba ,12,Dwarika Hotel,Kathmandu,4
+90,Yubaraj Panday,12,Dwarika Hotel,Kathmandu,3
+14,Roshani Gautam,12,Dwarika Hotel,Kathmandu,2
+94, Rupa Shrestha ,12,Dwarika Hotel,Kathmandu,2
+95, Rabindra Shrestha ,12,Dwarika Hotel,Kathmandu,3
+83,Umesh Dahal,12,Dwarika Hotel,Kathmandu,3
+5,Rijan Paudyal,12,Dwarika Hotel,Kathmandu,4
+70,Sunil Maharjan,12,Dwarika Hotel,Kathmandu,3
+60,Subash Dahal,12,Dwarika Hotel,Kathmandu,2
+84,Upendra Dahal,12,Dwarika Hotel,Kathmandu,2
+47,Shiva Prasad Pandit,12,Dwarika Hotel,Kathmandu,3
+85,Upendra Kumar Shah,12,Dwarika Hotel,Kathmandu,4
+63,Sujan Regmi,12,Dwarika Hotel,Kathmandu,3
+21,Sabina Pokhrel,12,Dwarika Hotel,Kathmandu,4
+75,Surendra Shahi,12,Dwarika Hotel,Kathmandu,3
+88,Yashoda Poudel (Subedi),13,Summit Hotel,Kathmandu,4
+27,Sajan Kunwar,13,Summit Hotel,Kathmandu,3
+72,Sunita Gautam,13,Summit Hotel,Kathmandu,
+18,Rupa Thapa,13,Summit Hotel,Kathmandu,2
+80,Sushil Bhattrai,13,Summit Hotel,Kathmandu,3
+69,Sumitra Shrestha,13,Summit Hotel,Kathmandu,3
+49,Shreejana Humagain,13,Summit Hotel,Kathmandu,3
+40,Santosh Kumar Yadav,13,Summit Hotel,Kathmandu,2
+73,Sunita Kumari Bam,13,Summit Hotel,Kathmandu,4
+76,Surendra Singh Dhami,13,Summit Hotel,Kathmandu,2
+19,Rupak Bista,13,Summit Hotel,Kathmandu,2
+90,Yubaraj Panday,13,Summit Hotel,Kathmandu,3
+12,Roshan Karkee,13,Summit Hotel,Kathmandu,3
+71,Sunita Adhikari,13,Summit Hotel,Kathmandu,4
+53,Siddhi Kumar Shrestha,14,Radisson Hotel Kathmandu,Kathmandu,3
+97, Kanchha Man Lama Moktan ,14,Radisson Hotel Kathmandu,Kathmandu,4
+46,Shital Sharma,14,Radisson Hotel Kathmandu,Kathmandu,3
+93, Ashutosh Kharel ,14,Radisson Hotel Kathmandu,Kathmandu,3
+91,Yubraj Tripathi,14,Radisson Hotel Kathmandu,Kathmandu,3
+62,Sudip Kumar Sah,14,Radisson Hotel Kathmandu,Kathmandu,2
+4,Richa Maharjan,14,Radisson Hotel Kathmandu,Kathmandu,2
+77,Suresh Lage,14,Radisson Hotel Kathmandu,Kathmandu,2
+99, Bina Tamang ,14,Radisson Hotel Kathmandu,Kathmandu,3
+31,Samjhana Dahal,14,Radisson Hotel Kathmandu,Kathmandu,4
+52,Shyam Prasad Dahal,14,Radisson Hotel Kathmandu,Kathmandu,4
+67,Sumitra Adhikari,14,Radisson Hotel Kathmandu,Kathmandu,4
+38,Santosh Ghimire,14,Radisson Hotel Kathmandu,Kathmandu,3
+7,Rita Thapa,14,Radisson Hotel Kathmandu,Kathmandu,3
+90,Yubaraj Panday,14,Radisson Hotel Kathmandu,Kathmandu,2
+6,Rishikesh Gnawali,15,Hotel Lake Paradise,Pokhara,3
+91,Yubraj Tripathi,15,Hotel Lake Paradise,Pokhara,4
+30,Samir Shrestha,15,Hotel Lake Paradise,Pokhara,5
+55,Sita Bhattarai,15,Hotel Lake Paradise,Pokhara,
+86,Usha Acharya,15,Hotel Lake Paradise,Pokhara,3
+43,Shanta Giri,15,Hotel Lake Paradise,Pokhara,3
+54,Sirjana Darlami,15,Hotel Lake Paradise,Pokhara,3
+33,Sandesh Pokhrel,15,Hotel Lake Paradise,Pokhara,4
+68,Sumitra Bajgain Sapkota,15,Hotel Lake Paradise,Pokhara,5
+41,Saroj Sapkota,15,Hotel Lake Paradise,Pokhara,3
+56,Siyaram Sah,15,Hotel Lake Paradise,Pokhara,3
+2,Renuka Dhakal,15,Hotel Lake Paradise,Pokhara,4
+51,Shyam Neupane,15,Hotel Lake Paradise,Pokhara,4
+13,Roshan Khatiwada,15,Hotel Lake Paradise,Pokhara,5
+48,Shrawan Kumar Newa Khadgi,15,Hotel Lake Paradise,Pokhara,5
+37,Santosh Dhakal,15,Hotel Lake Paradise,Pokhara,4
+82,Tika Ram Adhikari,15,Hotel Lake Paradise,Pokhara,3
+34,Sangita Bhattarai,16,Hotel Eagle Zone,Pokhara,2
+92, Nabin Subba ,16,Hotel Eagle Zone,Pokhara,3
+89,Yasoda Nepal,16,Hotel Eagle Zone,Pokhara,4
+9,Rojan Gurung,16,Hotel Eagle Zone,Pokhara,5
+94, Rupa Shrestha ,16,Hotel Eagle Zone,Pokhara,4
+39,Santosh Karki,16,Hotel Eagle Zone,Pokhara,3
+14,Roshani Gautam,16,Hotel Eagle Zone,Pokhara,3
+97, Kanchha Man Lama Moktan ,16,Hotel Eagle Zone,Pokhara,3
+26,Sagar Shrestha,16,Hotel Eagle Zone,Pokhara,3
+99, Bina Tamang ,16,Hotel Eagle Zone,Pokhara,3
+74,Sunita Neupane,16,Hotel Eagle Zone,Pokhara,4
+95, Rabindra Shrestha ,16,Hotel Eagle Zone,Pokhara,3
+58,Sonika Adhikari,17,Zostel Pokhara,Pokhara,3
+15,Rukmat Shrestha,16,Hotel Eagle Zone,Pokhara,4
+87,Yagya Prasad Aryal,16,Hotel Eagle Zone,Pokhara,5
+22,Sabina Shrestha,17,Zostel Pokhara,Pokhara,4
+64,Sujita Napit,17,Zostel Pokhara,Pokhara,3
+45,Shimon Shakya,17,Zostel Pokhara,Pokhara,
+66,Suman Kumar Shrestha,17,Zostel Pokhara,Pokhara,2
+72,Sunita Gautam,17,Zostel Pokhara,Pokhara,4
+20,Sabina Basnet,17,Zostel Pokhara,Pokhara,3
+99, Bina Tamang ,18,Dahila Boutique Hotel,Pokhara,2
+50,Shreejana Shrestha,17,Zostel Pokhara,Pokhara,3
+32,Sampada Bhurtel,17,Zostel Pokhara,Pokhara,
+3,Rewat Kumar Rai,17,Zostel Pokhara,Pokhara,3
+73,Sunita Kumari Bam,17,Zostel Pokhara,Pokhara,3
+96, Laxmi Lopchan Tamang ,17,Zostel Pokhara,Pokhara,4
+83,Umesh Dahal,17,Zostel Pokhara,Pokhara,3
+92, Nabin Subba ,17,Zostel Pokhara,Pokhara,3
+70,Sunil Maharjan,17,Zostel Pokhara,Pokhara,3
+65,Suman Adhikari,17,Zostel Pokhara,Pokhara,3
+88,Yashoda Poudel (Subedi),18,Dahila Boutique Hotel,Pokhara,2
+25,Sagar Nath Yogi,18,Dahila Boutique Hotel,Pokhara,3
+85,Upendra Kumar Shah,18,Dahila Boutique Hotel,Pokhara,4
+47,Shiva Prasad Pandit,18,Dahila Boutique Hotel,Pokhara,3
+59,Subash Acharya,18,Dahila Boutique Hotel,Pokhara,4
+5,Rijan Paudyal,18,Dahila Boutique Hotel,Pokhara,
+77,Suresh Lage,18,Dahila Boutique Hotel,Pokhara,3
+78,Suresh Raj Bakhrel,18,Dahila Boutique Hotel,Pokhara,4
+80,Sushil Bhattrai,18,Dahila Boutique Hotel,Pokhara,4
+52,Shyam Prasad Dahal,18,Dahila Boutique Hotel,Pokhara,3
+61,Subhadra Rai,18,Dahila Boutique Hotel,Pokhara,3
+35,Sanjay Kumar Mahato,18,Dahila Boutique Hotel,Pokhara,4
+49,Shreejana Humagain,18,Dahila Boutique Hotel,Pokhara,4
+36,Sanjay Kumar Yadav,18,Dahila Boutique Hotel,Pokhara,3
+76,Surendra Singh Dhami,18,Dahila Boutique Hotel,Pokhara,2
+44,Sharada Paudel,18,Dahila Boutique Hotel,Pokhara,3
+8,Robin Gautam,18,Dahila Boutique Hotel,Pokhara,2
+24,Sadhana Bagale,18,Dahila Boutique Hotel,Pokhara,2
+55,Sita Bhattarai,18,Dahila Boutique Hotel,Pokhara,4
+16,Rukmini Thapa,18,Dahila Boutique Hotel,Pokhara,2
+54,Sirjana Darlami,18,Dahila Boutique Hotel,Pokhara,
+84,Upendra Dahal,18,Dahila Boutique Hotel,Pokhara,4
+68,Sumitra Bajgain Sapkota,19,Hotel Snow Peak,Pokhara,3
+71,Sunita Adhikari,19,Hotel Snow Peak,Pokhara,4
+63,Sujan Regmi,19,Hotel Snow Peak,Pokhara,3
+57,Som Bahadur Karki,19,Hotel Snow Peak,Pokhara,4
+15,Rukmat Shrestha,19,Hotel Snow Peak,Pokhara,5
+6,Rishikesh Gnawali,19,Hotel Snow Peak,Pokhara,2
+93, Ashutosh Kharel ,19,Hotel Snow Peak,Pokhara,
+75,Surendra Shahi,19,Hotel Snow Peak,Pokhara,2
+84,Upendra Dahal,19,Hotel Snow Peak,Pokhara,3
+67,Sumitra Adhikari,19,Hotel Snow Peak,Pokhara,3
+94, Rupa Shrestha ,19,Hotel Snow Peak,Pokhara,2
+91,Yubraj Tripathi,19,Hotel Snow Peak,Pokhara,4
+90,Yubaraj Panday,19,Hotel Snow Peak,Pokhara,3
+10,Ronish Karki,19,Hotel Snow Peak,Pokhara,2
+97, Kanchha Man Lama Moktan ,19,Hotel Snow Peak,Pokhara,3
+28,Sameer Manandhar,19,Hotel Snow Peak,Pokhara,3
+79,Surya Prasad Rimal,19,Hotel Snow Peak,Pokhara,2
+14,Roshani Gautam,20,Durbar Suite ,Pokhara,
+81,Thakur Nepal,20,Durbar Suite ,Pokhara,4
+11,Roshan Baniya,20,Durbar Suite ,Pokhara,3
+86,Usha Acharya,20,Durbar Suite ,Pokhara,4
+4,Richa Maharjan,20,Durbar Suite ,Pokhara,5
+95, Rabindra Shrestha ,20,Durbar Suite ,Pokhara,3
+74,Sunita Neupane,20,Durbar Suite ,Pokhara,
+62,Sudip Kumar Sah,20,Durbar Suite ,Pokhara,3
+87,Yagya Prasad Aryal,20,Durbar Suite ,Pokhara,
+7,Rita Thapa,20,Durbar Suite ,Pokhara,
+99, Bina Tamang ,20,Durbar Suite ,Pokhara,2
+97, Kanchha Man Lama Moktan ,20,Durbar Suite ,Pokhara,3
+72,Sunita Gautam,20,Durbar Suite ,Pokhara,4
+34,Sangita Bhattarai,20,Durbar Suite ,Pokhara,5
+23,Sabita Siwakoti,20,Durbar Suite ,Pokhara,2
+50,Shreejana Shrestha,20,Durbar Suite ,Pokhara,2
+13,Roshan Khatiwada,20,Durbar Suite ,Pokhara,
+69,Sumitra Shrestha,20,Durbar Suite ,Pokhara,2
+40,Santosh Kumar Yadav,20,Durbar Suite ,Pokhara,4
+99, Bina Tamang ,21,Hotel Hakoniwa,Pokhara,4
+29,Samir Chaulagain,21,Hotel Hakoniwa,Pokhara,3
+94, Rupa Shrestha ,21,Hotel Hakoniwa,Pokhara,2
+53,Siddhi Kumar Shrestha,21,Hotel Hakoniwa,Pokhara,4
+2,Renuka Dhakal,21,Hotel Hakoniwa,Pokhara,5
+92, Nabin Subba ,21,Hotel Hakoniwa,Pokhara,2
+33,Sandesh Pokhrel,21,Hotel Hakoniwa,Pokhara,2
+56,Siyaram Sah,21,Hotel Hakoniwa,Pokhara,
+26,Sagar Shrestha,21,Hotel Hakoniwa,Pokhara,5
+42,Shaili Khadka,21,Hotel Hakoniwa,Pokhara,3
+41,Saroj Sapkota,21,Hotel Hakoniwa,Pokhara,4
+38,Santosh Ghimire,21,Hotel Hakoniwa,Pokhara,5
+46,Shital Sharma,21,Hotel Hakoniwa,Pokhara,2
+16,Rukmini Thapa,21,Hotel Hakoniwa,Pokhara,3
+8,Robin Gautam,21,Hotel Hakoniwa,Pokhara,
+90,Yubaraj Panday,21,Hotel Hakoniwa,Pokhara,3
+89,Yasoda Nepal,21,Hotel Hakoniwa,Pokhara,4
+27,Sajan Kunwar,21,Hotel Hakoniwa,Pokhara,5
+76,Surendra Singh Dhami,22,Grand Shivalaya Hotel,Pokhara,
+31,Samjhana Dahal,22,Grand Shivalaya Hotel,Pokhara,2
+39,Santosh Karki,22,Grand Shivalaya Hotel,Pokhara,3
+32,Sampada Bhurtel,22,Grand Shivalaya Hotel,Pokhara,4
+3,Rewat Kumar Rai,22,Grand Shivalaya Hotel,Pokhara,3
+70,Sunil Maharjan,22,Grand Shivalaya Hotel,Pokhara,2
+60,Subash Dahal,22,Grand Shivalaya Hotel,Pokhara,
+54,Sirjana Darlami,22,Grand Shivalaya Hotel,Pokhara,
+88,Yashoda Poudel (Subedi),22,Grand Shivalaya Hotel,Pokhara,3
+25,Sagar Nath Yogi,22,Grand Shivalaya Hotel,Pokhara,4
+58,Sonika Adhikari,22,Grand Shivalaya Hotel,Pokhara,5
+59,Subash Acharya,22,Grand Shivalaya Hotel,Pokhara,3
+51,Shyam Neupane,22,Grand Shivalaya Hotel,Pokhara,
+12,Roshan Karkee,22,Grand Shivalaya Hotel,Pokhara,3
+71,Sunita Adhikari,22,Grand Shivalaya Hotel,Pokhara,4
+64,Sujita Napit,23,Hotel Pristine Himalaya,Pokhara,3
+37,Santosh Dhakal,23,Hotel Pristine Himalaya,Pokhara,2
+66,Suman Kumar Shrestha,23,Hotel Pristine Himalaya,Pokhara,2
+18,Rupa Thapa,23,Hotel Pristine Himalaya,Pokhara,3
+80,Sushil Bhattrai,23,Hotel Pristine Himalaya,Pokhara,3
+77,Suresh Lage,23,Hotel Pristine Himalaya,Pokhara,5
+82,Tika Ram Adhikari,23,Hotel Pristine Himalaya,Pokhara,4
+68,Sumitra Bajgain Sapkota,23,Hotel Pristine Himalaya,Pokhara,3
+73,Sunita Kumari Bam,23,Hotel Pristine Himalaya,Pokhara,3
+93, Ashutosh Kharel ,23,Hotel Pristine Himalaya,Pokhara,4
+96, Laxmi Lopchan Tamang ,23,Hotel Pristine Himalaya,Pokhara,5
+91,Yubraj Tripathi,23,Hotel Pristine Himalaya,Pokhara,4
+97, Kanchha Man Lama Moktan ,23,Hotel Pristine Himalaya,Pokhara,3
+94, Rupa Shrestha ,23,Hotel Pristine Himalaya,Pokhara,2
+85,Upendra Kumar Shah,23,Hotel Pristine Himalaya,Pokhara,4
+99, Bina Tamang ,23,Hotel Pristine Himalaya,Pokhara,3
+1,Rekha Poudel,23,Hotel Pristine Himalaya,Pokhara,1
+42,Shaili Khadka,24,White Pearl Pokhara,Pokhara,4
+96, Laxmi Lopchan Tamang ,24,White Pearl Pokhara,Pokhara,4
+22,Sabina Shrestha,24,White Pearl Pokhara,Pokhara,4
+99, Bina Tamang ,24,White Pearl Pokhara,Pokhara,3
+19,Rupak Bista,24,White Pearl Pokhara,Pokhara,3
+78,Suresh Raj Bakhrel,24,White Pearl Pokhara,Pokhara,
+97, Kanchha Man Lama Moktan ,24,White Pearl Pokhara,Pokhara,3
+67,Sumitra Adhikari,24,White Pearl Pokhara,Pokhara,5
+35,Sanjay Kumar Mahato,24,White Pearl Pokhara,Pokhara,4
+94, Rupa Shrestha ,24,White Pearl Pokhara,Pokhara,3
+44,Sharada Paudel,25,Hotel Crown Himalaya,Pokhara,2
+28,Sameer Manandhar,24,White Pearl Pokhara,Pokhara,3
+83,Umesh Dahal,24,White Pearl Pokhara,Pokhara,3
+20,Sabina Basnet,24,White Pearl Pokhara,Pokhara,3
+86,Usha Acharya,25,Hotel Crown Himalaya,Pokhara,3
+65,Suman Adhikari,25,Hotel Crown Himalaya,Pokhara,3
+43,Shanta Giri,25,Hotel Crown Himalaya,Pokhara,3
+63,Sujan Regmi,25,Hotel Crown Himalaya,Pokhara,4
+47,Shiva Prasad Pandit,25,Hotel Crown Himalaya,Pokhara,4
+9,Rojan Gurung,25,Hotel Crown Himalaya,Pokhara,
+57,Som Bahadur Karki,25,Hotel Crown Himalaya,Pokhara,3
+87,Yagya Prasad Aryal,25,Hotel Crown Himalaya,Pokhara,2
+15,Rukmat Shrestha,25,Hotel Crown Himalaya,Pokhara,4
+75,Surendra Shahi,25,Hotel Crown Himalaya,Pokhara,5
+45,Shimon Shakya,25,Hotel Crown Himalaya,Pokhara,3
+72,Sunita Gautam,25,Hotel Crown Himalaya,Pokhara,2
+6,Rishikesh Gnawali,25,Hotel Crown Himalaya,Pokhara,2
+90,Yubaraj Panday,25,Hotel Crown Himalaya,Pokhara,
+84,Upendra Dahal,25,Hotel Crown Himalaya,Pokhara,
+92, Nabin Subba ,25,Hotel Crown Himalaya,Pokhara,
+4,Richa Maharjan,25,Hotel Crown Himalaya,Pokhara,4
+93, Ashutosh Kharel ,25,Hotel Crown Himalaya,Pokhara,2
+32,Sampada Bhurtel,26,Hotel Portland,Pokhara,4
+74,Sunita Neupane,26,Hotel Portland,Pokhara,3
+70,Sunil Maharjan,26,Hotel Portland,Pokhara,2
+16,Rukmini Thapa,26,Hotel Portland,Pokhara,2
+10,Ronish Karki,26,Hotel Portland,Pokhara,3
+56,Siyaram Sah,26,Hotel Portland,Pokhara,3
+53,Siddhi Kumar Shrestha,26,Hotel Portland,Pokhara,5
+36,Sanjay Kumar Yadav,26,Hotel Portland,Pokhara,4
+51,Shyam Neupane,26,Hotel Portland,Pokhara,3
+48,Shrawan Kumar Newa Khadgi,26,Hotel Portland,Pokhara,3
+99, Bina Tamang ,26,Hotel Portland,Pokhara,4
+46,Shital Sharma,26,Hotel Portland,Pokhara,5
+7,Rita Thapa,26,Hotel Portland,Pokhara,4
+42,Shaili Khadka,26,Hotel Portland,Pokhara,3
+61,Subhadra Rai,26,Hotel Portland,Pokhara,2
+24,Sadhana Bagale,26,Hotel Portland,Pokhara,4
+81,Thakur Nepal,27,Hotel Balcony,Pokhara,3
+27,Sajan Kunwar,27,Hotel Balcony,Pokhara,3
+76,Surendra Singh Dhami,27,Hotel Balcony,Pokhara,4
+39,Santosh Karki,27,Hotel Balcony,Pokhara,4
+22,Sabina Shrestha,27,Hotel Balcony,Pokhara,4
+90,Yubaraj Panday,27,Hotel Balcony,Pokhara,3
+89,Yasoda Nepal,27,Hotel Balcony,Pokhara,3
+99, Bina Tamang ,27,Hotel Balcony,Pokhara,
+25,Sagar Nath Yogi,27,Hotel Balcony,Pokhara,3
+54,Sirjana Darlami,27,Hotel Balcony,Pokhara,5
+88,Yashoda Poudel (Subedi),27,Hotel Balcony,Pokhara,4
+58,Sonika Adhikari,27,Hotel Balcony,Pokhara,3
+1,Rekha Poudel,27,Hotel Balcony,Pokhara,2
+91,Yubraj Tripathi,27,Hotel Balcony,Pokhara,3
+62,Sudip Kumar Sah,27,Hotel Balcony,Pokhara,3
+96, Laxmi Lopchan Tamang ,28,Hotel Golden Crown,Pokhara,3
+21,Sabina Pokhrel,28,Hotel Golden Crown,Pokhara,3
+64,Sujita Napit,28,Hotel Golden Crown,Pokhara,3
+97, Kanchha Man Lama Moktan ,28,Hotel Golden Crown,Pokhara,3
+52,Shyam Prasad Dahal,28,Hotel Golden Crown,Pokhara,4
+94, Rupa Shrestha ,28,Hotel Golden Crown,Pokhara,4
+5,Rijan Paudyal,28,Hotel Golden Crown,Pokhara,
+77,Suresh Lage,28,Hotel Golden Crown,Pokhara,3
+31,Samjhana Dahal,28,Hotel Golden Crown,Pokhara,2
+68,Sumitra Bajgain Sapkota,28,Hotel Golden Crown,Pokhara,4
+11,Roshan Baniya,28,Hotel Golden Crown,Pokhara,5
+84,Upendra Dahal,28,Hotel Golden Crown,Pokhara,3
+29,Samir Chaulagain,29,Hotel Lake Shore,Pokhara,2
+55,Sita Bhattarai,29,Hotel Lake Shore,Pokhara,2
+86,Usha Acharya,29,Hotel Lake Shore,Pokhara,
+99, Bina Tamang ,29,Hotel Lake Shore,Pokhara,
+97, Kanchha Man Lama Moktan ,29,Hotel Lake Shore,Pokhara,
+53,Siddhi Kumar Shrestha,29,Hotel Lake Shore,Pokhara,4
+96, Laxmi Lopchan Tamang ,29,Hotel Lake Shore,Pokhara,4
+59,Subash Acharya,29,Hotel Lake Shore,Pokhara,3
+3,Rewat Kumar Rai,29,Hotel Lake Shore,Pokhara,3
+82,Tika Ram Adhikari,29,Hotel Lake Shore,Pokhara,4
+41,Saroj Sapkota,29,Hotel Lake Shore,Pokhara,3
+67,Sumitra Adhikari,29,Hotel Lake Shore,Pokhara,
+94, Rupa Shrestha ,29,Hotel Lake Shore,Pokhara,3
+66,Suman Kumar Shrestha,29,Hotel Lake Shore,Pokhara,4
+13,Roshan Khatiwada,29,Hotel Lake Shore,Pokhara,
+50,Shreejana Shrestha,29,Hotel Lake Shore,Pokhara,
+23,Sabita Siwakoti,29,Hotel Lake Shore,Pokhara,3
+19,Rupak Bista,29,Hotel Lake Shore,Pokhara,4
+6,Rishikesh Gnawali,30,Hotel Mechi Crown,Jhapa,3
+69,Sumitra Shrestha,30,Hotel Mechi Crown,Jhapa,3
+30,Samir Shrestha,30,Hotel Mechi Crown,Jhapa,4
+93, Ashutosh Kharel ,30,Hotel Mechi Crown,Jhapa,3
+70,Sunil Maharjan,30,Hotel Mechi Crown,Jhapa,2
+99, Bina Tamang ,30,Hotel Mechi Crown,Jhapa,4
+97, Kanchha Man Lama Moktan ,30,Hotel Mechi Crown,Jhapa,
+74,Sunita Neupane,30,Hotel Mechi Crown,Jhapa,4
+85,Upendra Kumar Shah,30,Hotel Mechi Crown,Jhapa,3
+12,Roshan Karkee,31,Hotel Hicola Heritage,Jhapa,3
+71,Sunita Adhikari,30,Hotel Mechi Crown,Jhapa,
+33,Sandesh Pokhrel,30,Hotel Mechi Crown,Jhapa,2
+95, Rabindra Shrestha ,32,Hotel Holiday Home,Jhapa,
+94, Rupa Shrestha ,31,Hotel Hicola Heritage,Jhapa,3
+61,Subhadra Rai,31,Hotel Hicola Heritage,Jhapa,
+38,Santosh Ghimire,31,Hotel Hicola Heritage,Jhapa,3
+97, Kanchha Man Lama Moktan ,31,Hotel Hicola Heritage,Jhapa,4
+49,Shreejana Humagain,31,Hotel Hicola Heritage,Jhapa,3
+43,Shanta Giri,31,Hotel Hicola Heritage,Jhapa,3
+90,Yubaraj Panday,31,Hotel Hicola Heritage,Jhapa,2
+76,Surendra Singh Dhami,31,Hotel Hicola Heritage,Jhapa,3
+9,Rojan Gurung,31,Hotel Hicola Heritage,Jhapa,
+79,Surya Prasad Rimal,31,Hotel Hicola Heritage,Jhapa,
+83,Umesh Dahal,31,Hotel Hicola Heritage,Jhapa,3
+96, Laxmi Lopchan Tamang ,31,Hotel Hicola Heritage,Jhapa,3
+94, Rupa Shrestha ,32,Hotel Holiday Home,Jhapa,2
+26,Sagar Shrestha,31,Hotel Hicola Heritage,Jhapa,3
+63,Sujan Regmi,32,Hotel Holiday Home,Jhapa,4
+97, Kanchha Man Lama Moktan ,32,Hotel Holiday Home,Jhapa,3
+92, Nabin Subba ,32,Hotel Holiday Home,Jhapa,
+48,Shrawan Kumar Newa Khadgi,32,Hotel Holiday Home,Jhapa,2
+2,Renuka Dhakal,32,Hotel Holiday Home,Jhapa,3
+91,Yubraj Tripathi,32,Hotel Holiday Home,Jhapa,3
+32,Sampada Bhurtel,32,Hotel Holiday Home,Jhapa,4
+78,Suresh Raj Bakhrel,32,Hotel Holiday Home,Jhapa,
+80,Sushil Bhattrai,32,Hotel Holiday Home,Jhapa,3
+16,Rukmini Thapa,32,Hotel Holiday Home,Jhapa,2
+89,Yasoda Nepal,32,Hotel Holiday Home,Jhapa,2
+8,Robin Gautam,32,Hotel Holiday Home,Jhapa,3
+1,Rekha Poudel,32,Hotel Holiday Home,Jhapa,3
+39,Santosh Karki,32,Hotel Holiday Home,Jhapa,4
+27,Sajan Kunwar,32,Hotel Holiday Home,Jhapa,4
+40,Santosh Kumar Yadav,33,Siddhartha Hotel Grand City,Jhapa,3
+14,Roshani Gautam,33,Siddhartha Hotel Grand City,Jhapa,3
+86,Usha Acharya,33,Siddhartha Hotel Grand City,Jhapa,2
+88,Yashoda Poudel (Subedi),33,Siddhartha Hotel Grand City,Jhapa,2
+25,Sagar Nath Yogi,33,Siddhartha Hotel Grand City,Jhapa,2
+47,Shiva Prasad Pandit,33,Siddhartha Hotel Grand City,Jhapa,2
+84,Upendra Dahal,33,Siddhartha Hotel Grand City,Jhapa,
+4,Richa Maharjan,33,Siddhartha Hotel Grand City,Jhapa,
+51,Shyam Neupane,33,Siddhartha Hotel Grand City,Jhapa,3
+36,Sanjay Kumar Yadav,33,Siddhartha Hotel Grand City,Jhapa,4
+41,Saroj Sapkota,33,Siddhartha Hotel Grand City,Jhapa,4
+46,Shital Sharma,33,Siddhartha Hotel Grand City,Jhapa,3
+42,Shaili Khadka,33,Siddhartha Hotel Grand City,Jhapa,
+11,Roshan Baniya,33,Siddhartha Hotel Grand City,Jhapa,2
+81,Thakur Nepal,33,Siddhartha Hotel Grand City,Jhapa,3
+35,Sanjay Kumar Mahato,33,Siddhartha Hotel Grand City,Jhapa,4
+87,Yagya Prasad Aryal,33,Siddhartha Hotel Grand City,Jhapa,
+88,Yashoda Poudel (Subedi),34,Hotel simsar and Lodge,Jhapa,3
+68,Sumitra Bajgain Sapkota,34,Hotel simsar and Lodge,Jhapa,3
+22,Sabina Shrestha,34,Hotel simsar and Lodge,Jhapa,2
+28,Sameer Manandhar,34,Hotel simsar and Lodge,Jhapa,3
+6,Rishikesh Gnawali,34,Hotel simsar and Lodge,Jhapa,4
+95, Rabindra Shrestha ,34,Hotel simsar and Lodge,Jhapa,3
+60,Subash Dahal,34,Hotel simsar and Lodge,Jhapa,4
+65,Suman Adhikari,34,Hotel simsar and Lodge,Jhapa,3
+7,Rita Thapa,34,Hotel simsar and Lodge,Jhapa,2
+56,Siyaram Sah,34,Hotel simsar and Lodge,Jhapa,2
+92, Nabin Subba ,34,Hotel simsar and Lodge,Jhapa,3
+59,Subash Acharya,34,Hotel simsar and Lodge,Jhapa,3
+57,Som Bahadur Karki,34,Hotel simsar and Lodge,Jhapa,5
+75,Surendra Shahi,34,Hotel simsar and Lodge,Jhapa,4
+34,Sangita Bhattarai,34,Hotel simsar and Lodge,Jhapa,3
+72,Sunita Gautam,34,Hotel simsar and Lodge,Jhapa,3
+45,Shimon Shakya,34,Hotel simsar and Lodge,Jhapa,4
+5,Rijan Paudyal,34,Hotel simsar and Lodge,Jhapa,5
+66,Suman Kumar Shrestha,35,Hotel Shivansh,Jhapa,4
+43,Shanta Giri,35,Hotel Shivansh,Jhapa,3
+23,Sabita Siwakoti,35,Hotel Shivansh,Jhapa,2
+31,Samjhana Dahal,35,Hotel Shivansh,Jhapa,4
+69,Sumitra Shrestha,35,Hotel Shivansh,Jhapa,3
+20,Sabina Basnet,35,Hotel Shivansh,Jhapa,3
+73,Sunita Kumari Bam,35,Hotel Shivansh,Jhapa,4
+90,Yubaraj Panday,35,Hotel Shivansh,Jhapa,4
+70,Sunil Maharjan,35,Hotel Shivansh,Jhapa,4
+3,Rewat Kumar Rai,35,Hotel Shivansh,Jhapa,3
+99, Bina Tamang ,35,Hotel Shivansh,Jhapa,3
+58,Sonika Adhikari,35,Hotel Shivansh,Jhapa,
+53,Siddhi Kumar Shrestha,35,Hotel Shivansh,Jhapa,3
+95, Rabindra Shrestha ,35,Hotel Shivansh,Jhapa,5
+29,Samir Chaulagain,35,Hotel Shivansh,Jhapa,4
+62,Sudip Kumar Sah,35,Hotel Shivansh,Jhapa,3
+96, Laxmi Lopchan Tamang ,35,Hotel Shivansh,Jhapa,2
+67,Sumitra Adhikari,35,Hotel Shivansh,Jhapa,3
+64,Sujita Napit,35,Hotel Shivansh,Jhapa,3
+50,Shreejana Shrestha,35,Hotel Shivansh,Jhapa,3
+52,Shyam Prasad Dahal,36,Hotel Narbada,Jhapa,3
+12,Roshan Karkee,36,Hotel Narbada,Jhapa,3
+77,Suresh Lage,36,Hotel Narbada,Jhapa,3
+11,Roshan Baniya,36,Hotel Narbada,Jhapa,4
+94, Rupa Shrestha ,36,Hotel Narbada,Jhapa,4
+18,Rupa Thapa,36,Hotel Narbada,Jhapa,3
+93, Ashutosh Kharel ,36,Hotel Narbada,Jhapa,3
+30,Samir Shrestha,36,Hotel Narbada,Jhapa,2
+4,Richa Maharjan,36,Hotel Narbada,Jhapa,4
+79,Surya Prasad Rimal,36,Hotel Narbada,Jhapa,5
+83,Umesh Dahal,36,Hotel Narbada,Jhapa,3
+54,Sirjana Darlami,36,Hotel Narbada,Jhapa,2
+19,Rupak Bista,36,Hotel Narbada,Jhapa,2
+74,Sunita Neupane,36,Hotel Narbada,Jhapa,5
+85,Upendra Kumar Shah,36,Hotel Narbada,Jhapa,3
+97, Kanchha Man Lama Moktan ,36,Hotel Narbada,Jhapa,2
+6,Rishikesh Gnawali,36,Hotel Narbada,Jhapa,4
+71,Sunita Adhikari,36,Hotel Narbada,Jhapa,2
+82,Tika Ram Adhikari,36,Hotel Narbada,Jhapa,3
+41,Saroj Sapkota,36,Hotel Narbada,Jhapa,3
+91,Yubraj Tripathi,37,Hotel Darbar,Jhapa,4
+94, Rupa Shrestha ,37,Hotel Darbar,Jhapa,3
+24,Sadhana Bagale,37,Hotel Darbar,Jhapa,3
+87,Yagya Prasad Aryal,37,Hotel Darbar,Jhapa,3
+42,Shaili Khadka,37,Hotel Darbar,Jhapa,4
+95, Rabindra Shrestha ,37,Hotel Darbar,Jhapa,
+99, Bina Tamang ,37,Hotel Darbar,Jhapa,
+8,Robin Gautam,37,Hotel Darbar,Jhapa,3
+76,Surendra Singh Dhami,37,Hotel Darbar,Jhapa,4
+97, Kanchha Man Lama Moktan ,37,Hotel Darbar,Jhapa,3
+89,Yasoda Nepal,37,Hotel Darbar,Jhapa,3
+96, Laxmi Lopchan Tamang ,38,Omega Hotel And Lodge,Jhapa,4
+5,Rijan Paudyal,37,Hotel Darbar,Jhapa,3
+63,Sujan Regmi,37,Hotel Darbar,Jhapa,2
+88,Yashoda Poudel (Subedi),37,Hotel Darbar,Jhapa,4
+84,Upendra Dahal,37,Hotel Darbar,Jhapa,
+2,Renuka Dhakal,37,Hotel Darbar,Jhapa,4
+80,Sushil Bhattrai,38,Omega Hotel And Lodge,Jhapa,3
+33,Sandesh Pokhrel,38,Omega Hotel And Lodge,Jhapa,3
+46,Shital Sharma,38,Omega Hotel And Lodge,Jhapa,
+78,Suresh Raj Bakhrel,38,Omega Hotel And Lodge,Jhapa,2
+13,Roshan Khatiwada,38,Omega Hotel And Lodge,Jhapa,
+43,Shanta Giri,38,Omega Hotel And Lodge,Jhapa,3
+32,Sampada Bhurtel,38,Omega Hotel And Lodge,Jhapa,
+49,Shreejana Humagain,38,Omega Hotel And Lodge,Jhapa,3
+1,Rekha Poudel,38,Omega Hotel And Lodge,Jhapa,4
+44,Sharada Paudel,38,Omega Hotel And Lodge,Jhapa,3
+39,Santosh Karki,38,Omega Hotel And Lodge,Jhapa,3
+28,Sameer Manandhar,38,Omega Hotel And Lodge,Jhapa,2
+92, Nabin Subba ,38,Omega Hotel And Lodge,Jhapa,3
+16,Rukmini Thapa,38,Omega Hotel And Lodge,Jhapa,
+55,Sita Bhattarai,38,Omega Hotel And Lodge,Jhapa,
+65,Suman Adhikari,38,Omega Hotel And Lodge,Jhapa,3
+10,Ronish Karki,38,Omega Hotel And Lodge,Jhapa,3
+47,Shiva Prasad Pandit,39,Mirage Resort,Jhapa,2
+25,Sagar Nath Yogi,39,Mirage Resort,Jhapa,3
+48,Shrawan Kumar Newa Khadgi,39,Mirage Resort,Jhapa,4
+36,Sanjay Kumar Yadav,39,Mirage Resort,Jhapa,3
+51,Shyam Neupane,39,Mirage Resort,Jhapa,
+99, Bina Tamang ,39,Mirage Resort,Jhapa,2
+74,Sunita Neupane,39,Mirage Resort,Jhapa,3
+37,Santosh Dhakal,39,Mirage Resort,Jhapa,3
+26,Sagar Shrestha,39,Mirage Resort,Jhapa,4
+81,Thakur Nepal,39,Mirage Resort,Jhapa,
+73,Sunita Kumari Bam,39,Mirage Resort,Jhapa,3
+4,Richa Maharjan,39,Mirage Resort,Jhapa,2
+68,Sumitra Bajgain Sapkota,39,Mirage Resort,Jhapa,2
+45,Shimon Shakya,39,Mirage Resort,Jhapa,3
+9,Rojan Gurung,39,Mirage Resort,Jhapa,3
+27,Sajan Kunwar,39,Mirage Resort,Jhapa,4
+22,Sabina Shrestha,39,Mirage Resort,Jhapa,4
+70,Sunil Maharjan,39,Mirage Resort,Jhapa,3
+7,Rita Thapa,39,Mirage Resort,Jhapa,3
+60,Subash Dahal,39,Mirage Resort,Jhapa,2
+58,Sonika Adhikari,39,Mirage Resort,Jhapa,2
+15,Rukmat Shrestha,40,Ratna Hotel,Biratnagar ,2
+57,Som Bahadur Karki,40,Ratna Hotel,Biratnagar ,2
+3,Rewat Kumar Rai,40,Ratna Hotel,Biratnagar ,5
+40,Santosh Kumar Yadav,40,Ratna Hotel,Biratnagar ,2
+34,Sangita Bhattarai,40,Ratna Hotel,Biratnagar ,3
+21,Sabina Pokhrel,40,Ratna Hotel,Biratnagar ,4
+59,Subash Acharya,40,Ratna Hotel,Biratnagar ,4
+50,Shreejana Shrestha,40,Ratna Hotel,Biratnagar ,3
+61,Subhadra Rai,40,Ratna Hotel,Biratnagar ,3
+29,Samir Chaulagain,40,Ratna Hotel,Biratnagar ,2
+64,Sujita Napit,40,Ratna Hotel,Biratnagar ,2
+66,Suman Kumar Shrestha,40,Ratna Hotel,Biratnagar ,4
+38,Santosh Ghimire,40,Ratna Hotel,Biratnagar ,
+75,Surendra Shahi,40,Ratna Hotel,Biratnagar ,3
+89,Yasoda Nepal,40,Ratna Hotel,Biratnagar ,3
+77,Suresh Lage,40,Ratna Hotel,Biratnagar ,2
+91,Yubraj Tripathi,40,Ratna Hotel,Biratnagar ,3
+11,Roshan Baniya,40,Ratna Hotel,Biratnagar ,4
+79,Surya Prasad Rimal,40,Ratna Hotel,Biratnagar ,3
+54,Sirjana Darlami,41,Hotel Harrison Palace,Biratnagar ,4
+83,Umesh Dahal,41,Hotel Harrison Palace,Biratnagar ,3
+53,Siddhi Kumar Shrestha,41,Hotel Harrison Palace,Biratnagar ,2
+13,Roshan Khatiwada,41,Hotel Harrison Palace,Biratnagar ,2
+85,Upendra Kumar Shah,41,Hotel Harrison Palace,Biratnagar ,3
+62,Sudip Kumar Sah,41,Hotel Harrison Palace,Biratnagar ,3
+19,Rupak Bista,41,Hotel Harrison Palace,Biratnagar ,5
+88,Yashoda Poudel (Subedi),41,Hotel Harrison Palace,Biratnagar ,1
+86,Usha Acharya,41,Hotel Harrison Palace,Biratnagar ,3
+97, Kanchha Man Lama Moktan ,41,Hotel Harrison Palace,Biratnagar ,3
+43,Shanta Giri,41,Hotel Harrison Palace,Biratnagar ,4
+96, Laxmi Lopchan Tamang ,41,Hotel Harrison Palace,Biratnagar ,5
+87,Yagya Prasad Aryal,41,Hotel Harrison Palace,Biratnagar ,4
+41,Saroj Sapkota,41,Hotel Harrison Palace,Biratnagar ,3
+90,Yubaraj Panday,41,Hotel Harrison Palace,Biratnagar ,2
+69,Sumitra Shrestha,41,Hotel Harrison Palace,Biratnagar ,4
+2,Renuka Dhakal,41,Hotel Harrison Palace,Biratnagar ,3
+76,Surendra Singh Dhami,41,Hotel Harrison Palace,Biratnagar ,3
+93, Ashutosh Kharel ,41,Hotel Harrison Palace,Biratnagar ,4
+15,Rukmat Shrestha,41,Hotel Harrison Palace,Biratnagar ,4
+95, Rabindra Shrestha ,41,Hotel Harrison Palace,Biratnagar ,4
+84,Upendra Dahal,41,Hotel Harrison Palace,Biratnagar ,3
+94, Rupa Shrestha ,42,Hotel Swagatam,Biratnagar ,3
+47,Shiva Prasad Pandit,42,Hotel Swagatam,Biratnagar ,
+56,Siyaram Sah,42,Hotel Swagatam,Biratnagar ,3
+34,Sangita Bhattarai,42,Hotel Swagatam,Biratnagar ,5
+82,Tika Ram Adhikari,42,Hotel Swagatam,Biratnagar ,4
+71,Sunita Adhikari,42,Hotel Swagatam,Biratnagar ,3
+67,Sumitra Adhikari,42,Hotel Swagatam,Biratnagar ,2
+78,Suresh Raj Bakhrel,42,Hotel Swagatam,Biratnagar ,2
+5,Rijan Paudyal,42,Hotel Swagatam,Biratnagar ,3
+52,Shyam Prasad Dahal,42,Hotel Swagatam,Biratnagar ,3
+92, Nabin Subba ,42,Hotel Swagatam,Biratnagar ,3
+44,Sharada Paudel,42,Hotel Swagatam,Biratnagar ,3
+49,Shreejana Humagain,42,Hotel Swagatam,Biratnagar ,3
+31,Samjhana Dahal,42,Hotel Swagatam,Biratnagar ,4
+30,Samir Shrestha,42,Hotel Swagatam,Biratnagar ,4
+99, Bina Tamang ,42,Hotel Swagatam,Biratnagar ,
+12,Roshan Karkee,42,Hotel Swagatam,Biratnagar ,3
+97, Kanchha Man Lama Moktan ,43,London House Resort,Biratnagar ,2
+70,Sunil Maharjan,43,London House Resort,Biratnagar ,4
+65,Suman Adhikari,43,London House Resort,Biratnagar ,5
+36,Sanjay Kumar Yadav,43,London House Resort,Biratnagar ,3
+99, Bina Tamang ,43,London House Resort,Biratnagar ,2
+63,Sujan Regmi,43,London House Resort,Biratnagar ,2
+48,Shrawan Kumar Newa Khadgi,43,London House Resort,Biratnagar ,
+40,Santosh Kumar Yadav,43,London House Resort,Biratnagar ,
+80,Sushil Bhattrai,43,London House Resort,Biratnagar ,
+4,Richa Maharjan,43,London House Resort,Biratnagar ,4
+72,Sunita Gautam,43,London House Resort,Biratnagar ,4
+33,Sandesh Pokhrel,43,London House Resort,Biratnagar ,3
+81,Thakur Nepal,43,London House Resort,Biratnagar ,3
+96, Laxmi Lopchan Tamang ,43,London House Resort,Biratnagar ,4
+29,Samir Chaulagain,43,London House Resort,Biratnagar ,3
+35,Sanjay Kumar Mahato,43,London House Resort,Biratnagar ,
+75,Surendra Shahi,43,London House Resort,Biratnagar ,3
+74,Sunita Neupane,43,London House Resort,Biratnagar ,4
+13,Roshan Khatiwada,43,London House Resort,Biratnagar ,
+77,Suresh Lage,43,London House Resort,Biratnagar ,
+27,Sajan Kunwar,43,London House Resort,Biratnagar ,3
+91,Yubraj Tripathi,44,Hotel Shree Krishna,Biratnagar ,4
+95, Rabindra Shrestha ,44,Hotel Shree Krishna,Biratnagar ,3
+55,Sita Bhattarai,44,Hotel Shree Krishna,Biratnagar ,3
+39,Santosh Karki,44,Hotel Shree Krishna,Biratnagar ,4
+93, Ashutosh Kharel ,44,Hotel Shree Krishna,Biratnagar ,3
+53,Siddhi Kumar Shrestha,44,Hotel Shree Krishna,Biratnagar ,2
+90,Yubaraj Panday,44,Hotel Shree Krishna,Biratnagar ,4
+73,Sunita Kumari Bam,44,Hotel Shree Krishna,Biratnagar ,
+8,Robin Gautam,44,Hotel Shree Krishna,Biratnagar ,4
+51,Shyam Neupane,44,Hotel Shree Krishna,Biratnagar ,3
+59,Subash Acharya,44,Hotel Shree Krishna,Biratnagar ,3
+24,Sadhana Bagale,44,Hotel Shree Krishna,Biratnagar ,
+50,Shreejana Shrestha,44,Hotel Shree Krishna,Biratnagar ,2
+23,Sabita Siwakoti,44,Hotel Shree Krishna,Biratnagar ,
+37,Santosh Dhakal,44,Hotel Shree Krishna,Biratnagar ,3
+61,Subhadra Rai,45,Hotel Asiatique,Biratnagar ,
+15,Rukmat Shrestha,45,Hotel Asiatique,Biratnagar ,3
+66,Suman Kumar Shrestha,45,Hotel Asiatique,Biratnagar ,4
+84,Upendra Dahal,45,Hotel Asiatique,Biratnagar ,3
+5,Rijan Paudyal,45,Hotel Asiatique,Biratnagar ,3
+3,Rewat Kumar Rai,45,Hotel Asiatique,Biratnagar ,2
+76,Surendra Singh Dhami,45,Hotel Asiatique,Biratnagar ,3
+32,Sampada Bhurtel,45,Hotel Asiatique,Biratnagar ,
+99, Bina Tamang ,45,Hotel Asiatique,Biratnagar ,
+94, Rupa Shrestha ,45,Hotel Asiatique,Biratnagar ,3
+93, Ashutosh Kharel ,45,Hotel Asiatique,Biratnagar ,3
+97, Kanchha Man Lama Moktan ,45,Hotel Asiatique,Biratnagar ,2
+25,Sagar Nath Yogi,45,Hotel Asiatique,Biratnagar ,3
+85,Upendra Kumar Shah,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,4
+62,Sudip Kumar Sah,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,3
+88,Yashoda Poudel (Subedi),46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,
+21,Sabina Pokhrel,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,2
+99, Bina Tamang ,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,3
+67,Sumitra Adhikari,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,3
+92, Nabin Subba ,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,4
+84,Upendra Dahal,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,
+64,Sujita Napit,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,3
+87,Yagya Prasad Aryal,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,2
+22,Sabina Shrestha,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,2
+93, Ashutosh Kharel ,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,3
+9,Rojan Gurung,46,Hotel Pathivara Inn pvt. Ltd,Biratnagar ,3
+97, Kanchha Man Lama Moktan ,47,Big Hotel,Biratnagar ,4
+89,Yasoda Nepal,47,Big Hotel,Biratnagar ,4
+96, Laxmi Lopchan Tamang ,47,Big Hotel,Biratnagar ,3
+65,Suman Adhikari,47,Big Hotel,Biratnagar ,3
+95, Rabindra Shrestha ,47,Big Hotel,Biratnagar ,2
+79,Surya Prasad Rimal,47,Big Hotel,Biratnagar ,2
+83,Umesh Dahal,47,Big Hotel,Biratnagar ,2
+57,Som Bahadur Karki,47,Big Hotel,Biratnagar ,2
+26,Sagar Shrestha,47,Big Hotel,Biratnagar ,
+96, Laxmi Lopchan Tamang ,53,Hotel Namaskar,Biratnagar ,
+86,Usha Acharya,53,Hotel Namaskar,Biratnagar ,3
+80,Sushil Bhattrai,53,Hotel Namaskar,Biratnagar ,4
+78,Suresh Raj Bakhrel,53,Hotel Namaskar,Biratnagar ,4
+41,Saroj Sapkota,53,Hotel Namaskar,Biratnagar ,3
+52,Shyam Prasad Dahal,53,Hotel Namaskar,Biratnagar ,
+74,Sunita Neupane,53,Hotel Namaskar,Biratnagar ,2
+5,Rijan Paudyal,53,Hotel Namaskar,Biratnagar ,3
+42,Shaili Khadka,53,Hotel Namaskar,Biratnagar ,4
+16,Rukmini Thapa,48,Hotel Estern Star,Biratnagar ,
+38,Santosh Ghimire,48,Hotel Estern Star,Biratnagar ,3
+68,Sumitra Bajgain Sapkota,48,Hotel Estern Star,Biratnagar ,3
+28,Sameer Manandhar,48,Hotel Estern Star,Biratnagar ,3
+18,Rupa Thapa,48,Hotel Estern Star,Biratnagar ,3
+91,Yubraj Tripathi,48,Hotel Estern Star,Biratnagar ,4
+82,Tika Ram Adhikari,48,Hotel Estern Star,Biratnagar ,3
+60,Subash Dahal,48,Hotel Estern Star,Biratnagar ,3
+58,Sonika Adhikari,48,Hotel Estern Star,Biratnagar ,3
+63,Sujan Regmi,49,Hotel Xenial,Biratnagar ,3
+48,Shrawan Kumar Newa Khadgi,49,Hotel Xenial,Biratnagar ,3
+40,Santosh Kumar Yadav,49,Hotel Xenial,Biratnagar ,2
+71,Sunita Adhikari,49,Hotel Xenial,Biratnagar ,2
+59,Subash Acharya,49,Hotel Xenial,Biratnagar ,2
+99, Bina Tamang ,49,Hotel Xenial,Biratnagar ,2
+45,Shimon Shakya,49,Hotel Xenial,Biratnagar ,
+69,Sumitra Shrestha,49,Hotel Xenial,Biratnagar ,4
+31,Samjhana Dahal,49,Hotel Xenial,Biratnagar ,
+92, Nabin Subba ,50,Hotel Pacific,Biratnagar ,3
+44,Sharada Paudel,50,Hotel Pacific,Biratnagar ,3
+19,Rupak Bista,50,Hotel Pacific,Biratnagar ,3
+7,Rita Thapa,50,Hotel Pacific,Biratnagar ,2
+30,Samir Shrestha,50,Hotel Pacific,Biratnagar ,3
+33,Sandesh Pokhrel,50,Hotel Pacific,Biratnagar ,
+27,Sajan Kunwar,50,Hotel Pacific,Biratnagar ,2
+66,Suman Kumar Shrestha,50,Hotel Pacific,Biratnagar ,2
+14,Roshani Gautam,50,Hotel Pacific,Biratnagar ,
+90,Yubaraj Panday,50,Hotel Pacific,Biratnagar ,4
+88,Yashoda Poudel (Subedi),51,Dibya Ratna Hotel,Biratnagar ,
+9,Rojan Gurung,51,Dibya Ratna Hotel,Biratnagar ,3
+53,Siddhi Kumar Shrestha,51,Dibya Ratna Hotel,Biratnagar ,
+56,Siyaram Sah,51,Dibya Ratna Hotel,Biratnagar ,2
+73,Sunita Kumari Bam,51,Dibya Ratna Hotel,Biratnagar ,3
+4,Richa Maharjan,51,Dibya Ratna Hotel,Biratnagar ,
+2,Renuka Dhakal,51,Dibya Ratna Hotel,Biratnagar ,3
+51,Shyam Neupane,51,Dibya Ratna Hotel,Biratnagar ,3
+75,Surendra Shahi,51,Dibya Ratna Hotel,Biratnagar ,4
+50,Shreejana Shrestha,52,Mahendra Hotel,Biratnagar ,3
+11,Roshan Baniya,52,Mahendra Hotel,Biratnagar ,3
+81,Thakur Nepal,52,Mahendra Hotel,Biratnagar ,4
+43,Shanta Giri,52,Mahendra Hotel,Biratnagar ,
+61,Subhadra Rai,52,Mahendra Hotel,Biratnagar ,5
+87,Yagya Prasad Aryal,52,Mahendra Hotel,Biratnagar ,5
+77,Suresh Lage,52,Mahendra Hotel,Biratnagar ,3
+24,Sadhana Bagale,52,Mahendra Hotel,Biratnagar ,3
+90,Yubaraj Panday,52,Mahendra Hotel,Biratnagar ,
+76,Surendra Singh Dhami,52,Mahendra Hotel,Biratnagar ,2
+89,Yasoda Nepal,52,Mahendra Hotel,Biratnagar ,3
+15,Rukmat Shrestha,54,Peace And Joy Guest House,Lalitpur ,4
+85,Upendra Kumar Shah,54,Peace And Joy Guest House,Lalitpur ,5
+94, Rupa Shrestha ,54,Peace And Joy Guest House,Lalitpur ,4
+47,Shiva Prasad Pandit,54,Peace And Joy Guest House,Lalitpur ,3
+97, Kanchha Man Lama Moktan ,54,Peace And Joy Guest House,Lalitpur ,
+34,Sangita Bhattarai,54,Peace And Joy Guest House,Lalitpur ,2
+10,Ronish Karki,55,Himal Hotel,Lalitpur ,3
+39,Santosh Karki,54,Peace And Joy Guest House,Lalitpur ,4
+95, Rabindra Shrestha ,56,Hotel Siraaj,Lalitpur ,3
+23,Sabita Siwakoti,54,Peace And Joy Guest House,Lalitpur ,2
+96, Laxmi Lopchan Tamang ,54,Peace And Joy Guest House,Lalitpur ,3
+35,Sanjay Kumar Mahato,54,Peace And Joy Guest House,Lalitpur ,
+93, Ashutosh Kharel ,55,Himal Hotel,Lalitpur ,4
+37,Santosh Dhakal,55,Himal Hotel,Lalitpur ,3
+91,Yubraj Tripathi,55,Himal Hotel,Lalitpur ,2
+20,Sabina Basnet,55,Himal Hotel,Lalitpur ,2
+49,Shreejana Humagain,55,Himal Hotel,Lalitpur ,3
+60,Subash Dahal,55,Himal Hotel,Lalitpur ,3
+96, Laxmi Lopchan Tamang ,55,Himal Hotel,Lalitpur ,
+82,Tika Ram Adhikari,55,Himal Hotel,Lalitpur ,3
+54,Sirjana Darlami,55,Himal Hotel,Lalitpur ,2
+52,Shyam Prasad Dahal,55,Himal Hotel,Lalitpur ,2
+3,Rewat Kumar Rai,55,Himal Hotel,Lalitpur ,3
+57,Som Bahadur Karki,55,Himal Hotel,Lalitpur ,4
+9,Rojan Gurung,55,Himal Hotel,Lalitpur ,3
+73,Sunita Kumari Bam,55,Himal Hotel,Lalitpur ,2
+83,Umesh Dahal,56,Hotel Siraaj,Lalitpur ,2
+25,Sagar Nath Yogi,56,Hotel Siraaj,Lalitpur ,2
+78,Suresh Raj Bakhrel,56,Hotel Siraaj,Lalitpur ,4
+85,Upendra Kumar Shah,57,Hidden leaf Bed And Breakfast ,Lalitpur ,
+16,Rukmini Thapa,56,Hotel Siraaj,Lalitpur ,2
+92, Nabin Subba ,56,Hotel Siraaj,Lalitpur ,2
+97, Kanchha Man Lama Moktan ,56,Hotel Siraaj,Lalitpur ,3
+36,Sanjay Kumar Yadav,56,Hotel Siraaj,Lalitpur ,3
+38,Santosh Ghimire,56,Hotel Siraaj,Lalitpur ,2
+26,Sagar Shrestha,56,Hotel Siraaj,Lalitpur ,
+97, Kanchha Man Lama Moktan ,57,Hidden leaf Bed And Breakfast ,Lalitpur ,2
+96, Laxmi Lopchan Tamang ,57,Hidden leaf Bed And Breakfast ,Lalitpur ,2
+32,Sampada Bhurtel,57,Hidden leaf Bed And Breakfast ,Lalitpur ,2
+95, Rabindra Shrestha ,57,Hidden leaf Bed And Breakfast ,Lalitpur ,3
+84,Upendra Dahal,57,Hidden leaf Bed And Breakfast ,Lalitpur ,4
+90,Yubaraj Panday,57,Hidden leaf Bed And Breakfast ,Lalitpur ,
+52,Shyam Prasad Dahal,57,Hidden leaf Bed And Breakfast ,Lalitpur ,4
+87,Yagya Prasad Aryal,57,Hidden leaf Bed And Breakfast ,Lalitpur ,3
+62,Sudip Kumar Sah,57,Hidden leaf Bed And Breakfast ,Lalitpur ,3
+4,Richa Maharjan,57,Hidden leaf Bed And Breakfast ,Lalitpur ,3
+80,Sushil Bhattrai,57,Hidden leaf Bed And Breakfast ,Lalitpur ,2
+51,Shyam Neupane,57,Hidden leaf Bed And Breakfast ,Lalitpur ,2
+69,Sumitra Shrestha,57,Hidden leaf Bed And Breakfast ,Lalitpur ,2
+41,Saroj Sapkota,57,Hidden leaf Bed And Breakfast ,Lalitpur ,3
+46,Shital Sharma,58,Hotel Kutumba,Lalitpur ,4
+86,Usha Acharya,58,Hotel Kutumba,Lalitpur ,4
+44,Sharada Paudel,58,Hotel Kutumba,Lalitpur ,4
+64,Sujita Napit,58,Hotel Kutumba,Lalitpur ,3
+22,Sabina Shrestha,58,Hotel Kutumba,Lalitpur ,3
+77,Suresh Lage,58,Hotel Kutumba,Lalitpur ,2
+68,Sumitra Bajgain Sapkota,58,Hotel Kutumba,Lalitpur ,3
+49,Shreejana Humagain,58,Hotel Kutumba,Lalitpur ,4
+1,Rekha Poudel,58,Hotel Kutumba,Lalitpur ,5
+89,Yasoda Nepal,59,Rosebud Hotel And Resort,Lalitpur ,
+55,Sita Bhattarai,59,Rosebud Hotel And Resort,Lalitpur ,3
+79,Surya Prasad Rimal,59,Rosebud Hotel And Resort,Lalitpur ,2
+75,Surendra Shahi,59,Rosebud Hotel And Resort,Lalitpur ,2
+63,Sujan Regmi,59,Rosebud Hotel And Resort,Lalitpur ,4
+88,Yashoda Poudel (Subedi),59,Rosebud Hotel And Resort,Lalitpur ,3
+71,Sunita Adhikari,59,Rosebud Hotel And Resort,Lalitpur ,3
+34,Sangita Bhattarai,59,Rosebud Hotel And Resort,Lalitpur ,2
+59,Subash Acharya,59,Rosebud Hotel And Resort,Lalitpur ,2
+85,Upendra Kumar Shah,59,Rosebud Hotel And Resort,Lalitpur ,4
+12,Roshan Karkee,59,Rosebud Hotel And Resort,Lalitpur ,5
+7,Rita Thapa,59,Rosebud Hotel And Resort,Lalitpur ,5
+50,Shreejana Shrestha,60,Sun Appartmnt And Guesthouse,Lalitpur ,4
+67,Sumitra Adhikari,60,Sun Appartmnt And Guesthouse,Lalitpur ,3
+99, Bina Tamang ,60,Sun Appartmnt And Guesthouse,Lalitpur ,
+74,Sunita Neupane,60,Sun Appartmnt And Guesthouse,Lalitpur ,3
+48,Shrawan Kumar Newa Khadgi,60,Sun Appartmnt And Guesthouse,Lalitpur ,4
+15,Rukmat Shrestha,60,Sun Appartmnt And Guesthouse,Lalitpur ,5
+81,Thakur Nepal,60,Sun Appartmnt And Guesthouse,Lalitpur ,4
+27,Sajan Kunwar,60,Sun Appartmnt And Guesthouse,Lalitpur ,3
+76,Surendra Singh Dhami,60,Sun Appartmnt And Guesthouse,Lalitpur ,
+24,Sadhana Bagale,60,Sun Appartmnt And Guesthouse,Lalitpur ,
+65,Suman Adhikari,60,Sun Appartmnt And Guesthouse,Lalitpur ,4
+6,Rishikesh Gnawali,60,Sun Appartmnt And Guesthouse,Lalitpur ,5
+4,Richa Maharjan,61,Mystic Homes; Hotel And Appartment,Lalitpur ,5
+94, Rupa Shrestha ,61,Mystic Homes; Hotel And Appartment,Lalitpur ,
+2,Renuka Dhakal,61,Mystic Homes; Hotel And Appartment,Lalitpur ,3
+40,Santosh Kumar Yadav,61,Mystic Homes; Hotel And Appartment,Lalitpur ,4
+58,Sonika Adhikari,61,Mystic Homes; Hotel And Appartment,Lalitpur ,5
+19,Rupak Bista,61,Mystic Homes; Hotel And Appartment,Lalitpur ,4
+21,Sabina Pokhrel,61,Mystic Homes; Hotel And Appartment,Lalitpur ,3
+39,Santosh Karki,61,Mystic Homes; Hotel And Appartment,Lalitpur ,5
+93, Ashutosh Kharel ,61,Mystic Homes; Hotel And Appartment,Lalitpur ,5
+23,Sabita Siwakoti,61,Mystic Homes; Hotel And Appartment,Lalitpur ,4
+92, Nabin Subba ,61,Mystic Homes; Hotel And Appartment,Lalitpur ,3
+42,Shaili Khadka,62,Kaji Home,Lalitpur ,5
+11,Roshan Baniya,62,Kaji Home,Lalitpur ,3
+43,Shanta Giri,62,Kaji Home,Lalitpur ,4
+37,Santosh Dhakal,62,Kaji Home,Lalitpur ,3
+26,Sagar Shrestha,62,Kaji Home,Lalitpur ,2
+28,Sameer Manandhar,62,Kaji Home,Lalitpur ,2
+93, Ashutosh Kharel ,62,Kaji Home,Lalitpur ,3
+10,Ronish Karki,62,Kaji Home,Lalitpur ,3
+97, Kanchha Man Lama Moktan ,62,Kaji Home,Lalitpur ,5
+82,Tika Ram Adhikari,62,Kaji Home,Lalitpur ,3
+94, Rupa Shrestha ,63,Kathmandu Boutique Hotel,Lalitpur ,2
+47,Shiva Prasad Pandit,63,Kathmandu Boutique Hotel,Lalitpur ,2
+57,Som Bahadur Karki,63,Kathmandu Boutique Hotel,Lalitpur ,4
+13,Roshan Khatiwada,63,Kathmandu Boutique Hotel,Lalitpur ,5
+73,Sunita Kumari Bam,63,Kathmandu Boutique Hotel,Lalitpur ,4
+90,Yubaraj Panday,63,Kathmandu Boutique Hotel,Lalitpur ,3
+96, Laxmi Lopchan Tamang ,63,Kathmandu Boutique Hotel,Lalitpur ,2
+78,Suresh Raj Bakhrel,63,Kathmandu Boutique Hotel,Lalitpur ,4
+41,Saroj Sapkota,63,Kathmandu Boutique Hotel,Lalitpur ,3
+92, Nabin Subba ,63,Kathmandu Boutique Hotel,Lalitpur ,3
+86,Usha Acharya,63,Kathmandu Boutique Hotel,Lalitpur ,4
+35,Sanjay Kumar Mahato,64,Hotel Vintage Home ,Bhaktapur ,4
+3,Rewat Kumar Rai,64,Hotel Vintage Home ,Bhaktapur ,4
+95, Rabindra Shrestha ,64,Hotel Vintage Home ,Bhaktapur ,3
+38,Santosh Ghimire,64,Hotel Vintage Home ,Bhaktapur ,3
+33,Sandesh Pokhrel,64,Hotel Vintage Home ,Bhaktapur ,
+18,Rupa Thapa,64,Hotel Vintage Home ,Bhaktapur ,3
+45,Shimon Shakya,64,Hotel Vintage Home ,Bhaktapur ,5
+14,Roshani Gautam,64,Hotel Vintage Home ,Bhaktapur ,3
+94, Rupa Shrestha ,64,Hotel Vintage Home ,Bhaktapur ,5
+87,Yagya Prasad Aryal,64,Hotel Vintage Home ,Bhaktapur ,2
+97, Kanchha Man Lama Moktan ,64,Hotel Vintage Home ,Bhaktapur ,3
+63,Sujan Regmi,64,Hotel Vintage Home ,Bhaktapur ,3
+82,Tika Ram Adhikari,64,Hotel Vintage Home ,Bhaktapur ,3
+90,Yubaraj Panday,64,Hotel Vintage Home ,Bhaktapur ,3
+80,Sushil Bhattrai,65,Hotel Layaku Durbar,Bhaktapur ,3
+25,Sagar Nath Yogi,65,Hotel Layaku Durbar,Bhaktapur ,3
+83,Umesh Dahal,65,Hotel Layaku Durbar,Bhaktapur ,4
+75,Surendra Shahi,65,Hotel Layaku Durbar,Bhaktapur ,4
+78,Suresh Raj Bakhrel,65,Hotel Layaku Durbar,Bhaktapur ,
+29,Samir Chaulagain,65,Hotel Layaku Durbar,Bhaktapur ,3
+73,Sunita Kumari Bam,65,Hotel Layaku Durbar,Bhaktapur ,2
+72,Sunita Gautam,65,Hotel Layaku Durbar,Bhaktapur ,4
+66,Suman Kumar Shrestha,65,Hotel Layaku Durbar,Bhaktapur ,5
+56,Siyaram Sah,65,Hotel Layaku Durbar,Bhaktapur ,3
+51,Shyam Neupane,65,Hotel Layaku Durbar,Bhaktapur ,2
+32,Sampada Bhurtel,65,Hotel Layaku Durbar,Bhaktapur ,2
+44,Sharada Paudel,65,Hotel Layaku Durbar,Bhaktapur ,
+31,Samjhana Dahal,65,Hotel Layaku Durbar,Bhaktapur ,
+70,Sunil Maharjan,66,Hotel Paradise Home,Bhaktapur ,5
+62,Sudip Kumar Sah,66,Hotel Paradise Home,Bhaktapur ,4
+65,Suman Adhikari,66,Hotel Paradise Home,Bhaktapur ,4
+53,Siddhi Kumar Shrestha,66,Hotel Paradise Home,Bhaktapur ,3
+61,Subhadra Rai,66,Hotel Paradise Home,Bhaktapur ,3
+60,Subash Dahal,66,Hotel Paradise Home,Bhaktapur ,4
+46,Shital Sharma,66,Hotel Paradise Home,Bhaktapur ,3
+20,Sabina Basnet,66,Hotel Paradise Home,Bhaktapur ,
+36,Sanjay Kumar Yadav,66,Hotel Paradise Home,Bhaktapur ,3
+30,Samir Shrestha,66,Hotel Paradise Home,Bhaktapur ,4
+8,Robin Gautam,66,Hotel Paradise Home,Bhaktapur ,
+5,Rijan Paudyal,67,Planet Bhaktapur Hotel,Bhaktapur ,
+6,Rishikesh Gnawali,67,Planet Bhaktapur Hotel,Bhaktapur ,3
+7,Rita Thapa,67,Planet Bhaktapur Hotel,Bhaktapur ,4
+8,Robin Gautam,67,Planet Bhaktapur Hotel,Bhaktapur ,3
+9,Rojan Gurung,67,Planet Bhaktapur Hotel,Bhaktapur ,3
+10,Ronish Karki,67,Planet Bhaktapur Hotel,Bhaktapur ,4
+11,Roshan Baniya,67,Planet Bhaktapur Hotel,Bhaktapur ,3
+24,Sadhana Bagale,67,Planet Bhaktapur Hotel,Bhaktapur ,2
+20,Sabina Basnet,67,Planet Bhaktapur Hotel,Bhaktapur ,4
+28,Sameer Manandhar,67,Planet Bhaktapur Hotel,Bhaktapur ,
+1,Rekha Poudel,67,Planet Bhaktapur Hotel,Bhaktapur ,4
+30,Samir Shrestha,67,Planet Bhaktapur Hotel,Bhaktapur ,3
+36,Sanjay Kumar Yadav,67,Planet Bhaktapur Hotel,Bhaktapur ,3
+25,Sagar Nath Yogi,67,Planet Bhaktapur Hotel,Bhaktapur ,
+40,Santosh Kumar Yadav,67,Planet Bhaktapur Hotel,Bhaktapur ,2
+79,Surya Prasad Rimal,67,Planet Bhaktapur Hotel,Bhaktapur ,
+45,Shimon Shakya,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,3
+84,Upendra Dahal,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,
+43,Shanta Giri,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,3
+95, Rabindra Shrestha ,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,4
+92, Nabin Subba ,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,3
+19,Rupak Bista,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,3
+78,Suresh Raj Bakhrel,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,2
+91,Yubraj Tripathi,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,3
+87,Yagya Prasad Aryal,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,
+44,Sharada Paudel,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,
+90,Yubaraj Panday,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,3
+88,Yashoda Poudel (Subedi),68,Bhaktapur Mibchen Home Stay,Bhaktapur ,3
+93, Ashutosh Kharel ,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,2
+34,Sangita Bhattarai,68,Bhaktapur Mibchen Home Stay,Bhaktapur ,3
+96, Laxmi Lopchan Tamang ,69,Hotel city Gaon,Bhaktapur ,4
+90,Yubaraj Panday,69,Hotel city Gaon,Bhaktapur ,3
+95, Rabindra Shrestha ,69,Hotel city Gaon,Bhaktapur ,
+55,Sita Bhattarai,69,Hotel city Gaon,Bhaktapur ,2
+70,Sunil Maharjan,69,Hotel city Gaon,Bhaktapur ,3
+27,Sajan Kunwar,69,Hotel city Gaon,Bhaktapur ,3
+71,Sunita Adhikari,69,Hotel city Gaon,Bhaktapur ,4
+31,Samjhana Dahal,69,Hotel city Gaon,Bhaktapur ,
+46,Shital Sharma,69,Hotel city Gaon,Bhaktapur ,3
+58,Sonika Adhikari,69,Hotel city Gaon,Bhaktapur ,2
+37,Santosh Dhakal,69,Hotel city Gaon,Bhaktapur ,2
+21,Sabina Pokhrel,70,Big Bell Guest House,Bhaktapur ,3
+42,Shaili Khadka,70,Big Bell Guest House,Bhaktapur ,5
+59,Subash Acharya,70,Big Bell Guest House,Bhaktapur ,4
+29,Samir Chaulagain,70,Big Bell Guest House,Bhaktapur ,4
+38,Santosh Ghimire,70,Big Bell Guest House,Bhaktapur ,3
+72,Sunita Gautam,70,Big Bell Guest House,Bhaktapur ,3
+39,Santosh Karki,70,Big Bell Guest House,Bhaktapur ,2
+69,Sumitra Shrestha,70,Big Bell Guest House,Bhaktapur ,2
+50,Shreejana Shrestha,70,Big Bell Guest House,Bhaktapur ,2
+80,Sushil Bhattrai,70,Big Bell Guest House,Bhaktapur ,2
+32,Sampada Bhurtel,70,Big Bell Guest House,Bhaktapur ,
+83,Umesh Dahal,70,Big Bell Guest House,Bhaktapur ,
+89,Yasoda Nepal,70,Big Bell Guest House,Bhaktapur ,3
+47,Shiva Prasad Pandit,70,Big Bell Guest House,Bhaktapur ,4
+81,Thakur Nepal,71,Hotel Bhadgaon,Bhaktapur ,4
+54,Sirjana Darlami,71,Hotel Bhadgaon,Bhaktapur ,3
+68,Sumitra Bajgain Sapkota,71,Hotel Bhadgaon,Bhaktapur ,
+85,Upendra Kumar Shah,71,Hotel Bhadgaon,Bhaktapur ,2
+60,Subash Dahal,71,Hotel Bhadgaon,Bhaktapur ,3
+87,Yagya Prasad Aryal,71,Hotel Bhadgaon,Bhaktapur ,4
+33,Sandesh Pokhrel,71,Hotel Bhadgaon,Bhaktapur ,
+63,Sujan Regmi,71,Hotel Bhadgaon,Bhaktapur ,3
+77,Suresh Lage,71,Hotel Bhadgaon,Bhaktapur ,3
+51,Shyam Neupane,71,Hotel Bhadgaon,Bhaktapur ,2
+64,Sujita Napit,71,Hotel Bhadgaon,Bhaktapur ,3
+48,Shrawan Kumar Newa Khadgi,72,Bhaktapur Guest House,Bhaktapur ,4
+67,Sumitra Adhikari,72,Bhaktapur Guest House,Bhaktapur ,5
+61,Subhadra Rai,72,Bhaktapur Guest House,Bhaktapur ,
+76,Surendra Singh Dhami,72,Bhaktapur Guest House,Bhaktapur ,3
+49,Shreejana Humagain,72,Bhaktapur Guest House,Bhaktapur ,3
+92, Nabin Subba ,72,Bhaktapur Guest House,Bhaktapur ,3
+53,Siddhi Kumar Shrestha,72,Bhaktapur Guest House,Bhaktapur ,2
+94, Rupa Shrestha ,72,Bhaktapur Guest House,Bhaktapur ,1
+93, Ashutosh Kharel ,72,Bhaktapur Guest House,Bhaktapur ,2
+23,Sabita Siwakoti,72,Bhaktapur Guest House,Bhaktapur ,
+97, Kanchha Man Lama Moktan ,72,Bhaktapur Guest House,Bhaktapur ,
+26,Sagar Shrestha,73,Farm House Resort,Bhaktapur ,4
+79,Surya Prasad Rimal,73,Farm House Resort,Bhaktapur ,
+95, Rabindra Shrestha ,73,Farm House Resort,Bhaktapur ,3
+99, Bina Tamang ,73,Farm House Resort,Bhaktapur ,3
+86,Usha Acharya,73,Farm House Resort,Bhaktapur ,3
+56,Siyaram Sah,73,Farm House Resort,Bhaktapur ,4
+75,Surendra Shahi,73,Farm House Resort,Bhaktapur ,3
+57,Som Bahadur Karki,73,Farm House Resort,Bhaktapur ,
+82,Tika Ram Adhikari,73,Farm House Resort,Bhaktapur ,2
+22,Sabina Shrestha,73,Farm House Resort,Bhaktapur ,2
+98, Shanti Pun Magar ,73,Farm House Resort,Bhaktapur ,
+52,Shyam Prasad Dahal,73,Farm House Resort,Bhaktapur ,4
+95, Rabindra Shrestha ,74,Inn Sangarahalaya,Bhaktapur ,
+36,Sanjay Kumar Yadav,74,Inn Sangarahalaya,Bhaktapur ,3
+99, Bina Tamang ,74,Inn Sangarahalaya,Bhaktapur ,
+73,Sunita Kumari Bam,74,Inn Sangarahalaya,Bhaktapur ,2
+30,Samir Shrestha,74,Inn Sangarahalaya,Bhaktapur ,3
+96, Laxmi Lopchan Tamang ,74,Inn Sangarahalaya,Bhaktapur ,
+9,Rojan Gurung,74,Inn Sangarahalaya,Bhaktapur ,3
+70,Sunil Maharjan,74,Inn Sangarahalaya,Bhaktapur ,3
+65,Suman Adhikari,74,Inn Sangarahalaya,Bhaktapur ,4
+74,Sunita Neupane,74,Inn Sangarahalaya,Bhaktapur ,3
+93, Ashutosh Kharel ,74,Inn Sangarahalaya,Bhaktapur ,3
+41,Saroj Sapkota,74,Inn Sangarahalaya,Bhaktapur ,4
+85,Upendra Kumar Shah,74,Inn Sangarahalaya,Bhaktapur ,
+91,Yubraj Tripathi,75,Taumdhi Homestay ,Bhaktapur ,5
+19,Rupak Bista,75,Taumdhi Homestay ,Bhaktapur ,5
+78,Suresh Raj Bakhrel,75,Taumdhi Homestay ,Bhaktapur ,3
+66,Suman Kumar Shrestha,75,Taumdhi Homestay ,Bhaktapur ,3
+97, Kanchha Man Lama Moktan ,75,Taumdhi Homestay ,Bhaktapur ,
+2,Renuka Dhakal,75,Taumdhi Homestay ,Bhaktapur ,2
+99, Bina Tamang ,75,Taumdhi Homestay ,Bhaktapur ,3
+80,Sushil Bhattrai,75,Taumdhi Homestay ,Bhaktapur ,4
+96, Laxmi Lopchan Tamang ,75,Taumdhi Homestay ,Bhaktapur ,5
+92, Nabin Subba ,75,Taumdhi Homestay ,Bhaktapur ,4
+39,Santosh Karki,75,Taumdhi Homestay ,Bhaktapur ,3
+84,Upendra Dahal,76,Welcome Heritage Inn,Bhaktapur ,
+95, Rabindra Shrestha ,76,Welcome Heritage Inn,Bhaktapur ,2
+79,Surya Prasad Rimal,76,Welcome Heritage Inn,Bhaktapur ,3
+5,Rijan Paudyal,76,Welcome Heritage Inn,Bhaktapur ,4
+71,Sunita Adhikari,76,Welcome Heritage Inn,Bhaktapur ,3
+60,Subash Dahal,76,Welcome Heritage Inn,Bhaktapur ,2
+31,Samjhana Dahal,76,Welcome Heritage Inn,Bhaktapur ,3
+45,Shimon Shakya,76,Welcome Heritage Inn,Bhaktapur ,
+37,Santosh Dhakal,76,Welcome Heritage Inn,Bhaktapur ,4
+26,Sagar Shrestha,76,Welcome Heritage Inn,Bhaktapur ,3
+62,Sudip Kumar Sah,76,Welcome Heritage Inn,Bhaktapur ,2
+35,Sanjay Kumar Mahato,76,Welcome Heritage Inn,Bhaktapur ,2
+77,Suresh Lage,76,Welcome Heritage Inn,Bhaktapur ,3
+7,Rita Thapa,77,Hotel Heritage Bhaktapur,Bhaktapur ,3
+72,Sunita Gautam,77,Hotel Heritage Bhaktapur,Bhaktapur ,
+67,Sumitra Adhikari,77,Hotel Heritage Bhaktapur,Bhaktapur ,3
+88,Yashoda Poudel (Subedi),77,Hotel Heritage Bhaktapur,Bhaktapur ,2
+69,Sumitra Shrestha,77,Hotel Heritage Bhaktapur,Bhaktapur ,2
+89,Yasoda Nepal,77,Hotel Heritage Bhaktapur,Bhaktapur ,3
+3,Rewat Kumar Rai,77,Hotel Heritage Bhaktapur,Bhaktapur ,4
+38,Santosh Ghimire,77,Hotel Heritage Bhaktapur,Bhaktapur ,3
+94, Rupa Shrestha ,77,Hotel Heritage Bhaktapur,Bhaktapur ,2
+28,Sameer Manandhar,77,Hotel Heritage Bhaktapur,Bhaktapur ,3
+55,Sita Bhattarai,77,Hotel Heritage Bhaktapur,Bhaktapur ,2
+10,Ronish Karki,77,Hotel Heritage Bhaktapur,Bhaktapur ,4
+54,Sirjana Darlami,77,Hotel Heritage Bhaktapur,Bhaktapur ,
+46,Shital Sharma,78,Hotel Central Bhaktapur,Bhaktapur ,2
+68,Sumitra Bajgain Sapkota,78,Hotel Central Bhaktapur,Bhaktapur ,2
+43,Shanta Giri,78,Hotel Central Bhaktapur,Bhaktapur ,3
+24,Sadhana Bagale,78,Hotel Central Bhaktapur,Bhaktapur ,3
+33,Sandesh Pokhrel,78,Hotel Central Bhaktapur,Bhaktapur ,2
+25,Sagar Nath Yogi,78,Hotel Central Bhaktapur,Bhaktapur ,
+59,Subash Acharya,78,Hotel Central Bhaktapur,Bhaktapur ,2
+51,Shyam Neupane,78,Hotel Central Bhaktapur,Bhaktapur ,2
+4,Richa Maharjan,78,Hotel Central Bhaktapur,Bhaktapur ,2
+48,Shrawan Kumar Newa Khadgi,78,Hotel Central Bhaktapur,Bhaktapur ,3
+52,Shyam Prasad Dahal,78,Hotel Central Bhaktapur,Bhaktapur ,4
+34,Sangita Bhattarai,78,Hotel Central Bhaktapur,Bhaktapur ,
+23,Sabita Siwakoti,78,Hotel Central Bhaktapur,Bhaktapur ,4
+50,Shreejana Shrestha,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,3
+32,Sampada Bhurtel,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,3
+12,Roshan Karkee,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,3
+11,Roshan Baniya,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,2
+76,Surendra Singh Dhami,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,2
+44,Sharada Paudel,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,2
+81,Thakur Nepal,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,3
+8,Robin Gautam,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,4
+65,Suman Adhikari,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,4
+74,Sunita Neupane,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,4
+86,Usha Acharya,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,3
+58,Sonika Adhikari,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,3
+42,Shaili Khadka,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,2
+57,Som Bahadur Karki,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,3
+22,Sabina Shrestha,79,Bhaktapur Home Pvt Ltd,Bhaktapur ,4
+87,Yagya Prasad Aryal,80,Hotel Makalu,Birjung ,5
+64,Sujita Napit,80,Hotel Makalu,Birjung ,
+6,Rishikesh Gnawali,80,Hotel Makalu,Birjung ,3
+96, Laxmi Lopchan Tamang ,80,Hotel Makalu,Birjung ,2
+61,Subhadra Rai,80,Hotel Makalu,Birjung ,2
+29,Samir Chaulagain,80,Hotel Makalu,Birjung ,4
+92, Nabin Subba ,80,Hotel Makalu,Birjung ,5
+90,Yubaraj Panday,80,Hotel Makalu,Birjung ,3
+14,Roshani Gautam,80,Hotel Makalu,Birjung ,2
+94, Rupa Shrestha ,80,Hotel Makalu,Birjung ,2
+95, Rabindra Shrestha ,80,Hotel Makalu,Birjung ,4
+83,Umesh Dahal,80,Hotel Makalu,Birjung ,5
+5,Rijan Paudyal,80,Hotel Makalu,Birjung ,5
+70,Sunil Maharjan,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,4
+60,Subash Dahal,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,3
+84,Upendra Dahal,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,
+47,Shiva Prasad Pandit,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,3
+85,Upendra Kumar Shah,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,4
+63,Sujan Regmi,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,5
+21,Sabina Pokhrel,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,4
+75,Surendra Shahi,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,4
+88,Yashoda Poudel (Subedi),81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,2
+27,Sajan Kunwar,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,3
+72,Sunita Gautam,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,4
+18,Rupa Thapa,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,5
+80,Sushil Bhattrai,81,Hotel Riddhi Siddhi Resturants And Bar,Birjung ,5
+69,Sumitra Shrestha,82,Diyalo Lords Plazza,Birjung ,
+49,Shreejana Humagain,82,Diyalo Lords Plazza,Birjung ,3
+40,Santosh Kumar Yadav,82,Diyalo Lords Plazza,Birjung ,4
+73,Sunita Kumari Bam,82,Diyalo Lords Plazza,Birjung ,5
+76,Surendra Singh Dhami,82,Diyalo Lords Plazza,Birjung ,4
+19,Rupak Bista,82,Diyalo Lords Plazza,Birjung ,3
+90,Yubaraj Panday,82,Diyalo Lords Plazza,Birjung ,
+12,Roshan Karkee,82,Diyalo Lords Plazza,Birjung ,5
+71,Sunita Adhikari,82,Diyalo Lords Plazza,Birjung ,4
+53,Siddhi Kumar Shrestha,82,Diyalo Lords Plazza,Birjung ,3
+97, Kanchha Man Lama Moktan ,82,Diyalo Lords Plazza,Birjung ,5
+46,Shital Sharma,82,Diyalo Lords Plazza,Birjung ,5
+93, Ashutosh Kharel ,82,Diyalo Lords Plazza,Birjung ,
+91,Yubraj Tripathi,83,Hotel Kailash,Birjung ,3
+62,Sudip Kumar Sah,83,Hotel Kailash,Birjung ,3
+4,Richa Maharjan,83,Hotel Kailash,Birjung ,4
+77,Suresh Lage,83,Hotel Kailash,Birjung ,5
+99, Bina Tamang ,83,Hotel Kailash,Birjung ,3
+31,Samjhana Dahal,83,Hotel Kailash,Birjung ,1
+52,Shyam Prasad Dahal,83,Hotel Kailash,Birjung ,
+67,Sumitra Adhikari,83,Hotel Kailash,Birjung ,5
+38,Santosh Ghimire,83,Hotel Kailash,Birjung ,
+7,Rita Thapa,83,Hotel Kailash,Birjung ,3
+90,Yubaraj Panday,83,Hotel Kailash,Birjung ,
+6,Rishikesh Gnawali,83,Hotel Kailash,Birjung ,3
+91,Yubraj Tripathi,84,Hotel Pujan,Birjung ,
+30,Samir Shrestha,84,Hotel Pujan,Birjung ,4
+55,Sita Bhattarai,84,Hotel Pujan,Birjung ,4
+86,Usha Acharya,84,Hotel Pujan,Birjung ,4
+43,Shanta Giri,84,Hotel Pujan,Birjung ,3
+54,Sirjana Darlami,84,Hotel Pujan,Birjung ,3
+33,Sandesh Pokhrel,84,Hotel Pujan,Birjung ,3
+68,Sumitra Bajgain Sapkota,84,Hotel Pujan,Birjung ,4
+41,Saroj Sapkota,84,Hotel Pujan,Birjung ,3
+56,Siyaram Sah,84,Hotel Pujan,Birjung ,2
+2,Renuka Dhakal,84,Hotel Pujan,Birjung ,
+51,Shyam Neupane,84,Hotel Pujan,Birjung ,2
+13,Roshan Khatiwada,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,2
+48,Shrawan Kumar Newa Khadgi,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,1
+37,Santosh Dhakal,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,1
+82,Tika Ram Adhikari,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,
+34,Sangita Bhattarai,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,4
+92, Nabin Subba ,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,2
+89,Yasoda Nepal,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,
+9,Rojan Gurung,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,3
+94, Rupa Shrestha ,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,4
+39,Santosh Karki,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,5
+14,Roshani Gautam,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,2
+97, Kanchha Man Lama Moktan ,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,
+26,Sagar Shrestha,85,Townhall Party Palace And Hotel Peace Garden,Birjung ,2
+99, Bina Tamang ,86,Hotel Vishuwa,Birjung ,
+74,Sunita Neupane,86,Hotel Vishuwa,Birjung ,3
+95, Rabindra Shrestha ,86,Hotel Vishuwa,Birjung ,2
+58,Sonika Adhikari,86,Hotel Vishuwa,Birjung ,4
+15,Rukmat Shrestha,86,Hotel Vishuwa,Birjung ,3
+87,Yagya Prasad Aryal,86,Hotel Vishuwa,Birjung ,2
+22,Sabina Shrestha,86,Hotel Vishuwa,Birjung ,
+64,Sujita Napit,86,Hotel Vishuwa,Birjung ,
+45,Shimon Shakya,86,Hotel Vishuwa,Birjung ,2
+66,Suman Kumar Shrestha,86,Hotel Vishuwa,Birjung ,
+72,Sunita Gautam,86,Hotel Vishuwa,Birjung ,4
+20,Sabina Basnet,86,Hotel Vishuwa,Birjung ,2
+99, Bina Tamang ,87,Annapurna Hotel Nepal,Birjung ,4
+50,Shreejana Shrestha,87,Annapurna Hotel Nepal,Birjung ,5
+32,Sampada Bhurtel,87,Annapurna Hotel Nepal,Birjung ,2
+3,Rewat Kumar Rai,87,Annapurna Hotel Nepal,Birjung ,
+73,Sunita Kumari Bam,87,Annapurna Hotel Nepal,Birjung ,2
+96, Laxmi Lopchan Tamang ,87,Annapurna Hotel Nepal,Birjung ,
+83,Umesh Dahal,87,Annapurna Hotel Nepal,Birjung ,
+92, Nabin Subba ,87,Annapurna Hotel Nepal,Birjung ,1
+70,Sunil Maharjan,87,Annapurna Hotel Nepal,Birjung ,3
+65,Suman Adhikari,87,Annapurna Hotel Nepal,Birjung ,4
+88,Yashoda Poudel (Subedi),87,Annapurna Hotel Nepal,Birjung ,5
+25,Sagar Nath Yogi,87,Annapurna Hotel Nepal,Birjung ,2
+85,Upendra Kumar Shah,87,Annapurna Hotel Nepal,Birjung ,2
+47,Shiva Prasad Pandit,87,Annapurna Hotel Nepal,Birjung ,3
+59,Subash Acharya,88,Hotal Gautam Raj ,Birjung ,2
+5,Rijan Paudyal,88,Hotal Gautam Raj ,Birjung ,4
+77,Suresh Lage,88,Hotal Gautam Raj ,Birjung ,5
+78,Suresh Raj Bakhrel,88,Hotal Gautam Raj ,Birjung ,
+80,Sushil Bhattrai,88,Hotal Gautam Raj ,Birjung ,3
+52,Shyam Prasad Dahal,88,Hotal Gautam Raj ,Birjung ,4
+61,Subhadra Rai,88,Hotal Gautam Raj ,Birjung ,5
+35,Sanjay Kumar Mahato,88,Hotal Gautam Raj ,Birjung ,2
+49,Shreejana Humagain,88,Hotal Gautam Raj ,Birjung ,2
+36,Sanjay Kumar Yadav,88,Hotal Gautam Raj ,Birjung ,
+76,Surendra Singh Dhami,88,Hotal Gautam Raj ,Birjung ,5
+44,Sharada Paudel,88,Hotal Gautam Raj ,Birjung ,3
+8,Robin Gautam,88,Hotal Gautam Raj ,Birjung ,4
+24,Sadhana Bagale,88,Hotal Gautam Raj ,Birjung ,5
+55,Sita Bhattarai,89,Hotel Metro King,Birjung ,2
+16,Rukmini Thapa,89,Hotel Metro King,Birjung ,3
+54,Sirjana Darlami,89,Hotel Metro King,Birjung ,
+84,Upendra Dahal,89,Hotel Metro King,Birjung ,3
+68,Sumitra Bajgain Sapkota,89,Hotel Metro King,Birjung ,4
+71,Sunita Adhikari,89,Hotel Metro King,Birjung ,5
+63,Sujan Regmi,89,Hotel Metro King,Birjung ,
+57,Som Bahadur Karki,89,Hotel Metro King,Birjung ,2
+15,Rukmat Shrestha,89,Hotel Metro King,Birjung ,3
+6,Rishikesh Gnawali,89,Hotel Metro King,Birjung ,4
+93, Ashutosh Kharel ,89,Hotel Metro King,Birjung ,3
+75,Surendra Shahi,89,Hotel Metro King,Birjung ,3
+84,Upendra Dahal,90,Hotal Suraj,Birjung ,4
+67,Sumitra Adhikari,90,Hotal Suraj,Birjung ,3
+94, Rupa Shrestha ,90,Hotal Suraj,Birjung ,2
+91,Yubraj Tripathi,90,Hotal Suraj,Birjung ,2
+90,Yubaraj Panday,90,Hotal Suraj,Birjung ,3
+10,Ronish Karki,90,Hotal Suraj,Birjung ,3
+97, Kanchha Man Lama Moktan ,90,Hotal Suraj,Birjung ,5
+28,Sameer Manandhar,90,Hotal Suraj,Birjung ,4
+79,Surya Prasad Rimal,90,Hotal Suraj,Birjung ,3
+14,Roshani Gautam,90,Hotal Suraj,Birjung ,3
+81,Thakur Nepal,90,Hotal Suraj,Birjung ,4
+11,Roshan Baniya,90,Hotal Suraj,Birjung ,5
+86,Usha Acharya,90,Hotal Suraj,Birjung ,4
+4,Richa Maharjan,90,Hotal Suraj,Birjung ,3
+95, Rabindra Shrestha ,90,Hotal Suraj,Birjung ,2
+74,Sunita Neupane,90,Hotal Suraj,Birjung ,4
+62,Sudip Kumar Sah,91,Hotel Makalu,Birjung ,3
+87,Yagya Prasad Aryal,91,Hotel Makalu,Birjung ,3
+7,Rita Thapa,91,Hotel Makalu,Birjung ,4
+99, Bina Tamang ,91,Hotel Makalu,Birjung ,4
+97, Kanchha Man Lama Moktan ,91,Hotel Makalu,Birjung ,4
+72,Sunita Gautam,91,Hotel Makalu,Birjung ,3
+34,Sangita Bhattarai,91,Hotel Makalu,Birjung ,3
+23,Sabita Siwakoti,91,Hotel Makalu,Birjung ,
+50,Shreejana Shrestha,91,Hotel Makalu,Birjung ,3
+13,Roshan Khatiwada,91,Hotel Makalu,Birjung ,5
+69,Sumitra Shrestha,91,Hotel Makalu,Birjung ,4
+40,Santosh Kumar Yadav,92,Hotel Om Residency And Restaurant,Birjung ,3
+99, Bina Tamang ,92,Hotel Om Residency And Restaurant,Birjung ,2
+29,Samir Chaulagain,92,Hotel Om Residency And Restaurant,Birjung ,3
+94, Rupa Shrestha ,92,Hotel Om Residency And Restaurant,Birjung ,3
+53,Siddhi Kumar Shrestha,92,Hotel Om Residency And Restaurant,Birjung ,3
+2,Renuka Dhakal,92,Hotel Om Residency And Restaurant,Birjung ,3
+92, Nabin Subba ,92,Hotel Om Residency And Restaurant,Birjung ,3
+33,Sandesh Pokhrel,92,Hotel Om Residency And Restaurant,Birjung ,3
+56,Siyaram Sah,92,Hotel Om Residency And Restaurant,Birjung ,4
+26,Sagar Shrestha,92,Hotel Om Residency And Restaurant,Birjung ,4
+42,Shaili Khadka,92,Hotel Om Residency And Restaurant,Birjung ,
+41,Saroj Sapkota,92,Hotel Om Residency And Restaurant,Birjung ,3
+38,Santosh Ghimire,93,Hotel Ichchha ,Birjung ,2
+46,Shital Sharma,93,Hotel Ichchha ,Birjung ,4
+16,Rukmini Thapa,93,Hotel Ichchha ,Birjung ,5
+8,Robin Gautam,93,Hotel Ichchha ,Birjung ,3
+90,Yubaraj Panday,93,Hotel Ichchha ,Birjung ,4
+89,Yasoda Nepal,93,Hotel Ichchha ,Birjung ,2
+27,Sajan Kunwar,93,Hotel Ichchha ,Birjung ,
+76,Surendra Singh Dhami,93,Hotel Ichchha ,Birjung ,3
+31,Samjhana Dahal,93,Hotel Ichchha ,Birjung ,
+39,Santosh Karki,93,Hotel Ichchha ,Birjung ,4
+32,Sampada Bhurtel,93,Hotel Ichchha ,Birjung ,4
+3,Rewat Kumar Rai,93,Hotel Ichchha ,Birjung ,3
+70,Sunil Maharjan,94,Barewa Durbar Hotel And Banquet,Birjung ,3
+60,Subash Dahal,94,Barewa Durbar Hotel And Banquet,Birjung ,4
+54,Sirjana Darlami,94,Barewa Durbar Hotel And Banquet,Birjung ,3
+88,Yashoda Poudel (Subedi),94,Barewa Durbar Hotel And Banquet,Birjung ,
+25,Sagar Nath Yogi,94,Barewa Durbar Hotel And Banquet,Birjung ,3
+58,Sonika Adhikari,94,Barewa Durbar Hotel And Banquet,Birjung ,4
+59,Subash Acharya,94,Barewa Durbar Hotel And Banquet,Birjung ,
+51,Shyam Neupane,94,Barewa Durbar Hotel And Banquet,Birjung ,
+12,Roshan Karkee,94,Barewa Durbar Hotel And Banquet,Birjung ,3
+71,Sunita Adhikari,94,Barewa Durbar Hotel And Banquet,Birjung ,3
+64,Sujita Napit,94,Barewa Durbar Hotel And Banquet,Birjung ,3
+37,Santosh Dhakal,95,Hotel Peace Garden,Birjung ,3
+66,Suman Kumar Shrestha,95,Hotel Peace Garden,Birjung ,4
+18,Rupa Thapa,95,Hotel Peace Garden,Birjung ,3
+80,Sushil Bhattrai,95,Hotel Peace Garden,Birjung ,2
+77,Suresh Lage,95,Hotel Peace Garden,Birjung ,4
+82,Tika Ram Adhikari,95,Hotel Peace Garden,Birjung ,
+68,Sumitra Bajgain Sapkota,95,Hotel Peace Garden,Birjung ,4
+73,Sunita Kumari Bam,95,Hotel Peace Garden,Birjung ,3
+93, Ashutosh Kharel ,95,Hotel Peace Garden,Birjung ,3
+96, Laxmi Lopchan Tamang ,95,Hotel Peace Garden,Birjung ,
+91,Yubraj Tripathi,96,Yara Hotel,Dharan ,3
+97, Kanchha Man Lama Moktan ,96,Yara Hotel,Dharan ,
+94, Rupa Shrestha ,96,Yara Hotel,Dharan ,3
+85,Upendra Kumar Shah,96,Yara Hotel,Dharan ,
+99, Bina Tamang ,96,Yara Hotel,Dharan ,3
+1,Rekha Poudel,96,Yara Hotel,Dharan ,4
+42,Shaili Khadka,96,Yara Hotel,Dharan ,3
+96, Laxmi Lopchan Tamang ,96,Yara Hotel,Dharan ,3
+22,Sabina Shrestha,97,Hotel Star Purwi,Dharan ,2
+99, Bina Tamang ,97,Hotel Star Purwi,Dharan ,3
+19,Rupak Bista,97,Hotel Star Purwi,Dharan ,
+78,Suresh Raj Bakhrel,97,Hotel Star Purwi,Dharan ,
+97, Kanchha Man Lama Moktan ,97,Hotel Star Purwi,Dharan ,3
+67,Sumitra Adhikari,97,Hotel Star Purwi,Dharan ,3
+35,Sanjay Kumar Mahato,97,Hotel Star Purwi,Dharan ,2
+94, Rupa Shrestha ,97,Hotel Star Purwi,Dharan ,3
+44,Sharada Paudel,97,Hotel Star Purwi,Dharan ,4
+99, Bina Tamang ,98,Hotel Gajur Palace,Dharan ,3
+28,Sameer Manandhar,98,Hotel Gajur Palace,Dharan ,
+83,Umesh Dahal,98,Hotel Gajur Palace,Dharan ,2
+20,Sabina Basnet,98,Hotel Gajur Palace,Dharan ,3
+86,Usha Acharya,98,Hotel Gajur Palace,Dharan ,3
+65,Suman Adhikari,98,Hotel Gajur Palace,Dharan ,4
+43,Shanta Giri,98,Hotel Gajur Palace,Dharan ,
+63,Sujan Regmi,98,Hotel Gajur Palace,Dharan ,3
+47,Shiva Prasad Pandit,98,Hotel Gajur Palace,Dharan ,2
+9,Rojan Gurung,98,Hotel Gajur Palace,Dharan ,2
+57,Som Bahadur Karki,99,Hotel Ambassador,Dharan ,3
+87,Yagya Prasad Aryal,99,Hotel Ambassador,Dharan ,3
+15,Rukmat Shrestha,99,Hotel Ambassador,Dharan ,4
+75,Surendra Shahi,99,Hotel Ambassador,Dharan ,4
+45,Shimon Shakya,99,Hotel Ambassador,Dharan ,3
+72,Sunita Gautam,99,Hotel Ambassador,Dharan ,3
+6,Rishikesh Gnawali,99,Hotel Ambassador,Dharan ,2
+90,Yubaraj Panday,99,Hotel Ambassador,Dharan ,2
+84,Upendra Dahal,99,Hotel Ambassador,Dharan ,2
+92, Nabin Subba ,99,Hotel Ambassador,Dharan ,2
+4,Richa Maharjan,99,Hotel Ambassador,Dharan ,
+93, Ashutosh Kharel ,99,Hotel Ambassador,Dharan ,
+32,Sampada Bhurtel,100,Hotel The Ratna Inn,Dharan ,3
+74,Sunita Neupane,100,Hotel The Ratna Inn,Dharan ,4
+70,Sunil Maharjan,100,Hotel The Ratna Inn,Dharan ,4
+16,Rukmini Thapa,100,Hotel The Ratna Inn,Dharan ,3
+10,Ronish Karki,100,Hotel The Ratna Inn,Dharan ,
+56,Siyaram Sah,100,Hotel The Ratna Inn,Dharan ,3
+53,Siddhi Kumar Shrestha,100,Hotel The Ratna Inn,Dharan ,4
+36,Sanjay Kumar Yadav,100,Hotel The Ratna Inn,Dharan ,3
+51,Shyam Neupane,100,Hotel The Ratna Inn,Dharan ,2
+48,Shrawan Kumar Newa Khadgi,100,Hotel The Ratna Inn,Dharan ,2
+99, Bina Tamang ,100,Hotel The Ratna Inn,Dharan ,3
+46,Shital Sharma,100,Hotel The Ratna Inn,Dharan ,3
+7,Rita Thapa,100,Hotel The Ratna Inn,Dharan ,5
+42,Shaili Khadka,101,Hotel Majestic,Dharan ,4
+61,Subhadra Rai,101,Hotel Majestic,Dharan ,3
+24,Sadhana Bagale,101,Hotel Majestic,Dharan ,3
+81,Thakur Nepal,101,Hotel Majestic,Dharan ,4
+27,Sajan Kunwar,101,Hotel Majestic,Dharan ,5
+76,Surendra Singh Dhami,101,Hotel Majestic,Dharan ,4
+39,Santosh Karki,101,Hotel Majestic,Dharan ,3
+22,Sabina Shrestha,101,Hotel Majestic,Dharan ,2
+90,Yubaraj Panday,101,Hotel Majestic,Dharan ,4
+89,Yasoda Nepal,101,Hotel Majestic,Dharan ,3
+99, Bina Tamang ,101,Hotel Majestic,Dharan ,3
+25,Sagar Nath Yogi,101,Hotel Majestic,Dharan ,4
+54,Sirjana Darlami,101,Hotel Majestic,Dharan ,4
+88,Yashoda Poudel (Subedi),101,Hotel Majestic,Dharan ,4
+58,Sonika Adhikari,102,Hotel Maden Inn,Dharan ,3
+1,Rekha Poudel,102,Hotel Maden Inn,Dharan ,3
+91,Yubraj Tripathi,102,Hotel Maden Inn,Dharan ,
+62,Sudip Kumar Sah,102,Hotel Maden Inn,Dharan ,3
+96, Laxmi Lopchan Tamang ,102,Hotel Maden Inn,Dharan ,5
+21,Sabina Pokhrel,102,Hotel Maden Inn,Dharan ,4
+64,Sujita Napit,102,Hotel Maden Inn,Dharan ,3
+97, Kanchha Man Lama Moktan ,102,Hotel Maden Inn,Dharan ,2
+52,Shyam Prasad Dahal,102,Hotel Maden Inn,Dharan ,3
+94, Rupa Shrestha ,102,Hotel Maden Inn,Dharan ,3
+5,Rijan Paudyal,102,Hotel Maden Inn,Dharan ,3
+77,Suresh Lage,102,Hotel Maden Inn,Dharan ,2
+31,Samjhana Dahal,102,Hotel Maden Inn,Dharan ,3
+68,Sumitra Bajgain Sapkota,102,Hotel Maden Inn,Dharan ,3
+11,Roshan Baniya,102,Hotel Maden Inn,Dharan ,4
+84,Upendra Dahal,103,Namaste Resort,Dharan ,4
+29,Samir Chaulagain,103,Namaste Resort,Dharan ,2
+55,Sita Bhattarai,103,Namaste Resort,Dharan ,3
+86,Usha Acharya,103,Namaste Resort,Dharan ,2
+99, Bina Tamang ,103,Namaste Resort,Dharan ,4
+97, Kanchha Man Lama Moktan ,103,Namaste Resort,Dharan ,5
+53,Siddhi Kumar Shrestha,103,Namaste Resort,Dharan ,3
+96, Laxmi Lopchan Tamang ,103,Namaste Resort,Dharan ,2
+59,Subash Acharya,103,Namaste Resort,Dharan ,2
+3,Rewat Kumar Rai,103,Namaste Resort,Dharan ,2
+82,Tika Ram Adhikari,103,Namaste Resort,Dharan ,3
+41,Saroj Sapkota,103,Namaste Resort,Dharan ,3
+67,Sumitra Adhikari,104,Hotel Dharan Kitchen,Dharan ,2
+94, Rupa Shrestha ,104,Hotel Dharan Kitchen,Dharan ,4
+66,Suman Kumar Shrestha,104,Hotel Dharan Kitchen,Dharan ,3
+13,Roshan Khatiwada,104,Hotel Dharan Kitchen,Dharan ,3
+50,Shreejana Shrestha,104,Hotel Dharan Kitchen,Dharan ,4
+23,Sabita Siwakoti,104,Hotel Dharan Kitchen,Dharan ,3
+19,Rupak Bista,104,Hotel Dharan Kitchen,Dharan ,
+6,Rishikesh Gnawali,104,Hotel Dharan Kitchen,Dharan ,3
+69,Sumitra Shrestha,104,Hotel Dharan Kitchen,Dharan ,4
+30,Samir Shrestha,104,Hotel Dharan Kitchen,Dharan ,
+93, Ashutosh Kharel ,105,Hotel Verandah,Dharan ,
+70,Sunil Maharjan,105,Hotel Verandah,Dharan ,3
+99, Bina Tamang ,105,Hotel Verandah,Dharan ,4
+97, Kanchha Man Lama Moktan ,105,Hotel Verandah,Dharan ,3
+74,Sunita Neupane,105,Hotel Verandah,Dharan ,3
+85,Upendra Kumar Shah,105,Hotel Verandah,Dharan ,4
+99, Bina Tamang ,106,Hotel Maden Inn,Dharan ,3
+12,Roshan Karkee,106,Hotel Maden Inn,Dharan ,2
+71,Sunita Adhikari,106,Hotel Maden Inn,Dharan ,4
+33,Sandesh Pokhrel,106,Hotel Maden Inn,Dharan ,
+95, Rabindra Shrestha ,106,Hotel Maden Inn,Dharan ,4
+94, Rupa Shrestha ,106,Hotel Maden Inn,Dharan ,3
+61,Subhadra Rai,106,Hotel Maden Inn,Dharan ,3
+38,Santosh Ghimire,106,Hotel Maden Inn,Dharan ,
+97, Kanchha Man Lama Moktan ,106,Hotel Maden Inn,Dharan ,2
+49,Shreejana Humagain,106,Hotel Maden Inn,Dharan ,
+43,Shanta Giri,106,Hotel Maden Inn,Dharan ,3
+90,Yubaraj Panday,106,Hotel Maden Inn,Dharan ,2
+76,Surendra Singh Dhami,107,Hotel Kanchanjunga,Dharan ,3
+9,Rojan Gurung,107,Hotel Kanchanjunga,Dharan ,4
+79,Surya Prasad Rimal,107,Hotel Kanchanjunga,Dharan ,3
+83,Umesh Dahal,107,Hotel Kanchanjunga,Dharan ,3
+96, Laxmi Lopchan Tamang ,107,Hotel Kanchanjunga,Dharan ,2
+94, Rupa Shrestha ,107,Hotel Kanchanjunga,Dharan ,3
+26,Sagar Shrestha,107,Hotel Kanchanjunga,Dharan ,
+63,Sujan Regmi,107,Hotel Kanchanjunga,Dharan ,2
+97, Kanchha Man Lama Moktan ,107,Hotel Kanchanjunga,Dharan ,3
+92, Nabin Subba ,107,Hotel Kanchanjunga,Dharan ,3
+48,Shrawan Kumar Newa Khadgi,107,Hotel Kanchanjunga,Dharan ,2
+2,Renuka Dhakal,107,Hotel Kanchanjunga,Dharan ,3
+91,Yubraj Tripathi,107,Hotel Kanchanjunga,Dharan ,4
+95, Rabindra Shrestha ,107,Hotel Kanchanjunga,Dharan ,3
+32,Sampada Bhurtel,108,Hotel Utsav,Dharan ,
+78,Suresh Raj Bakhrel,108,Hotel Utsav,Dharan ,2
+80,Sushil Bhattrai,108,Hotel Utsav,Dharan ,3
+16,Rukmini Thapa,108,Hotel Utsav,Dharan ,3
+89,Yasoda Nepal,108,Hotel Utsav,Dharan ,4
+8,Robin Gautam,108,Hotel Utsav,Dharan ,
+1,Rekha Poudel,108,Hotel Utsav,Dharan ,3
+39,Santosh Karki,108,Hotel Utsav,Dharan ,2
+27,Sajan Kunwar,108,Hotel Utsav,Dharan ,2
+40,Santosh Kumar Yadav,108,Hotel Utsav,Dharan ,3
+14,Roshani Gautam,108,Hotel Utsav,Dharan ,3
+86,Usha Acharya,109,Hotel Nava Yug,Dharan ,4
+88,Yashoda Poudel (Subedi),109,Hotel Nava Yug,Dharan ,4
+25,Sagar Nath Yogi,109,Hotel Nava Yug,Dharan ,3
+47,Shiva Prasad Pandit,109,Hotel Nava Yug,Dharan ,3
+84,Upendra Dahal,109,Hotel Nava Yug,Dharan ,2
+4,Richa Maharjan,109,Hotel Nava Yug,Dharan ,2
+51,Shyam Neupane,109,Hotel Nava Yug,Dharan ,3
+36,Sanjay Kumar Yadav,109,Hotel Nava Yug,Dharan ,2
+41,Saroj Sapkota,109,Hotel Nava Yug,Dharan ,
+46,Shital Sharma,109,Hotel Nava Yug,Dharan ,
+42,Shaili Khadka,109,Hotel Nava Yug,Dharan ,3
+11,Roshan Baniya,109,Hotel Nava Yug,Dharan ,4
+81,Thakur Nepal,109,Hotel Nava Yug,Dharan ,4
+35,Sanjay Kumar Mahato,110,Hotel Welcome,Janakpur ,3
+87,Yagya Prasad Aryal,110,Hotel Welcome,Janakpur ,
+88,Yashoda Poudel (Subedi),110,Hotel Welcome,Janakpur ,2
+68,Sumitra Bajgain Sapkota,110,Hotel Welcome,Janakpur ,3
+22,Sabina Shrestha,110,Hotel Welcome,Janakpur ,4
+28,Sameer Manandhar,110,Hotel Welcome,Janakpur ,
+6,Rishikesh Gnawali,110,Hotel Welcome,Janakpur ,3
+95, Rabindra Shrestha ,110,Hotel Welcome,Janakpur ,3
+60,Subash Dahal,110,Hotel Welcome,Janakpur ,2
+65,Suman Adhikari,110,Hotel Welcome,Janakpur ,3
+7,Rita Thapa,111,Hotel Ramjanaki,Janakpur ,4
+56,Siyaram Sah,111,Hotel Ramjanaki,Janakpur ,5
+92, Nabin Subba ,111,Hotel Ramjanaki,Janakpur ,
+59,Subash Acharya,111,Hotel Ramjanaki,Janakpur ,3
+57,Som Bahadur Karki,111,Hotel Ramjanaki,Janakpur ,3
+75,Surendra Shahi,111,Hotel Ramjanaki,Janakpur ,3
+34,Sangita Bhattarai,111,Hotel Ramjanaki,Janakpur ,2
+72,Sunita Gautam,111,Hotel Ramjanaki,Janakpur ,2
+45,Shimon Shakya,111,Hotel Ramjanaki,Janakpur ,2
+5,Rijan Paudyal,111,Hotel Ramjanaki,Janakpur ,
+66,Suman Kumar Shrestha,111,Hotel Ramjanaki,Janakpur ,
+43,Shanta Giri,111,Hotel Ramjanaki,Janakpur ,4
+23,Sabita Siwakoti,111,Hotel Ramjanaki,Janakpur ,
+31,Samjhana Dahal,111,Hotel Ramjanaki,Janakpur ,3
+69,Sumitra Shrestha,112,Hotel Vrindavan palace,Janakpur ,3
+20,Sabina Basnet,112,Hotel Vrindavan palace,Janakpur ,3
+73,Sunita Kumari Bam,112,Hotel Vrindavan palace,Janakpur ,4
+90,Yubaraj Panday,112,Hotel Vrindavan palace,Janakpur ,3
+70,Sunil Maharjan,112,Hotel Vrindavan palace,Janakpur ,
+3,Rewat Kumar Rai,112,Hotel Vrindavan palace,Janakpur ,2
+99, Bina Tamang ,112,Hotel Vrindavan palace,Janakpur ,2
+58,Sonika Adhikari,112,Hotel Vrindavan palace,Janakpur ,
+53,Siddhi Kumar Shrestha,112,Hotel Vrindavan palace,Janakpur ,4
+95, Rabindra Shrestha ,112,Hotel Vrindavan palace,Janakpur ,
+29,Samir Chaulagain,112,Hotel Vrindavan palace,Janakpur ,3
+62,Sudip Kumar Sah,112,Hotel Vrindavan palace,Janakpur ,
+96, Laxmi Lopchan Tamang ,112,Hotel Vrindavan palace,Janakpur ,2
+67,Sumitra Adhikari,113,Hotel Sita Palace,Janakpur ,3
+64,Sujita Napit,113,Hotel Sita Palace,Janakpur ,4
+50,Shreejana Shrestha,113,Hotel Sita Palace,Janakpur ,3
+52,Shyam Prasad Dahal,113,Hotel Sita Palace,Janakpur ,2
+12,Roshan Karkee,113,Hotel Sita Palace,Janakpur ,2
+77,Suresh Lage,113,Hotel Sita Palace,Janakpur ,3
+11,Roshan Baniya,113,Hotel Sita Palace,Janakpur ,3
+94, Rupa Shrestha ,113,Hotel Sita Palace,Janakpur ,5
+18,Rupa Thapa,113,Hotel Sita Palace,Janakpur ,4
+93, Ashutosh Kharel ,113,Hotel Sita Palace,Janakpur ,3
+30,Samir Shrestha,113,Hotel Sita Palace,Janakpur ,2
+4,Richa Maharjan,113,Hotel Sita Palace,Janakpur ,4
+79,Surya Prasad Rimal,113,Hotel Sita Palace,Janakpur ,5
+83,Umesh Dahal,113,Hotel Sita Palace,Janakpur ,4
+54,Sirjana Darlami,114,Hotel Welcome,Janakpur ,3
+19,Rupak Bista,114,Hotel Welcome,Janakpur ,2
+74,Sunita Neupane,114,Hotel Welcome,Janakpur ,4
+85,Upendra Kumar Shah,114,Hotel Welcome,Janakpur ,3
+97, Kanchha Man Lama Moktan ,114,Hotel Welcome,Janakpur ,3
+6,Rishikesh Gnawali,114,Hotel Welcome,Janakpur ,4
+71,Sunita Adhikari,114,Hotel Welcome,Janakpur ,4
+82,Tika Ram Adhikari,114,Hotel Welcome,Janakpur ,4
+41,Saroj Sapkota,114,Hotel Welcome,Janakpur ,3
+91,Yubraj Tripathi,114,Hotel Welcome,Janakpur ,3
+94, Rupa Shrestha ,114,Hotel Welcome,Janakpur ,
+24,Sadhana Bagale,114,Hotel Welcome,Janakpur ,3
+87,Yagya Prasad Aryal,114,Hotel Welcome,Janakpur ,5
+42,Shaili Khadka,114,Hotel Welcome,Janakpur ,4
+95, Rabindra Shrestha ,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,3
+99, Bina Tamang ,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,2
+8,Robin Gautam,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,3
+76,Surendra Singh Dhami,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,3
+97, Kanchha Man Lama Moktan ,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,3
+89,Yasoda Nepal,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,3
+94, Rupa Shrestha ,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,3
+96, Laxmi Lopchan Tamang ,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,3
+5,Rijan Paudyal,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,4
+63,Sujan Regmi,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,4
+88,Yashoda Poudel (Subedi),115,Hotel Raj Durbar And Navrang Resort,Janakpur ,
+84,Upendra Dahal,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,3
+2,Renuka Dhakal,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,2
+80,Sushil Bhattrai,115,Hotel Raj Durbar And Navrang Resort,Janakpur ,4
+33,Sandesh Pokhrel,116,Annapurna Banquet Pvt Ltd,Janakpur ,5
+46,Shital Sharma,116,Annapurna Banquet Pvt Ltd,Janakpur ,3
+78,Suresh Raj Bakhrel,116,Annapurna Banquet Pvt Ltd,Janakpur ,4
+13,Roshan Khatiwada,116,Annapurna Banquet Pvt Ltd,Janakpur ,2
+43,Shanta Giri,116,Annapurna Banquet Pvt Ltd,Janakpur ,
+32,Sampada Bhurtel,116,Annapurna Banquet Pvt Ltd,Janakpur ,
+49,Shreejana Humagain,116,Annapurna Banquet Pvt Ltd,Janakpur ,
+1,Rekha Poudel,116,Annapurna Banquet Pvt Ltd,Janakpur ,4
+44,Sharada Paudel,116,Annapurna Banquet Pvt Ltd,Janakpur ,4
+39,Santosh Karki,116,Annapurna Banquet Pvt Ltd,Janakpur ,3
+28,Sameer Manandhar,116,Annapurna Banquet Pvt Ltd,Janakpur ,3
+92, Nabin Subba ,116,Annapurna Banquet Pvt Ltd,Janakpur ,4
+16,Rukmini Thapa,116,Annapurna Banquet Pvt Ltd,Janakpur ,3
+55,Sita Bhattarai,117,Hotel Sita Sharan,Janakpur ,
+65,Suman Adhikari,117,Hotel Sita Sharan,Janakpur ,3
+10,Ronish Karki,117,Hotel Sita Sharan,Janakpur ,4
+47,Shiva Prasad Pandit,117,Hotel Sita Sharan,Janakpur ,
+25,Sagar Nath Yogi,117,Hotel Sita Sharan,Janakpur ,
+48,Shrawan Kumar Newa Khadgi,117,Hotel Sita Sharan,Janakpur ,3
+36,Sanjay Kumar Yadav,117,Hotel Sita Sharan,Janakpur ,4
+51,Shyam Neupane,117,Hotel Sita Sharan,Janakpur ,3
+99, Bina Tamang ,117,Hotel Sita Sharan,Janakpur ,3
+74,Sunita Neupane,117,Hotel Sita Sharan,Janakpur ,4
+37,Santosh Dhakal,117,Hotel Sita Sharan,Janakpur ,3
+26,Sagar Shrestha,117,Hotel Sita Sharan,Janakpur ,2
+81,Thakur Nepal,117,Hotel Sita Sharan,Janakpur ,4
+73,Sunita Kumari Bam,117,Hotel Sita Sharan,Janakpur ,
+4,Richa Maharjan,118,Hotel Delbia,Butwal,4
+68,Sumitra Bajgain Sapkota,118,Hotel Delbia,Butwal,3
+45,Shimon Shakya,118,Hotel Delbia,Butwal,3
+9,Rojan Gurung,118,Hotel Delbia,Butwal,
+27,Sajan Kunwar,118,Hotel Delbia,Butwal,2
+22,Sabina Shrestha,118,Hotel Delbia,Butwal,
+70,Sunil Maharjan,118,Hotel Delbia,Butwal,3
+7,Rita Thapa,118,Hotel Delbia,Butwal,
+60,Subash Dahal,118,Hotel Delbia,Butwal,3
+58,Sonika Adhikari,118,Hotel Delbia,Butwal,4
+15,Rukmat Shrestha,118,Hotel Delbia,Butwal,3
+57,Som Bahadur Karki,118,Hotel Delbia,Butwal,3
+3,Rewat Kumar Rai,118,Hotel Delbia,Butwal,2
+40,Santosh Kumar Yadav,118,Hotel Delbia,Butwal,3
+34,Sangita Bhattarai,118,Hotel Delbia,Butwal,
+21,Sabina Pokhrel,118,Hotel Delbia,Butwal,
+59,Subash Acharya,119,Hotel Span,Butwal,3
+50,Shreejana Shrestha,119,Hotel Span,Butwal,3
+61,Subhadra Rai,119,Hotel Span,Butwal,2
+29,Samir Chaulagain,119,Hotel Span,Butwal,3
+64,Sujita Napit,119,Hotel Span,Butwal,4
+66,Suman Kumar Shrestha,119,Hotel Span,Butwal,3
+38,Santosh Ghimire,119,Hotel Span,Butwal,
+75,Surendra Shahi,119,Hotel Span,Butwal,2
+89,Yasoda Nepal,119,Hotel Span,Butwal,3
+77,Suresh Lage,119,Hotel Span,Butwal,3
+91,Yubraj Tripathi,119,Hotel Span,Butwal,4
+11,Roshan Baniya,119,Hotel Span,Butwal,
+79,Surya Prasad Rimal,119,Hotel Span,Butwal,3
+54,Sirjana Darlami,120,Everest International Deluxe Hotel,Butwal,2
+83,Umesh Dahal,120,Everest International Deluxe Hotel,Butwal,2
+53,Siddhi Kumar Shrestha,120,Everest International Deluxe Hotel,Butwal,3
+13,Roshan Khatiwada,120,Everest International Deluxe Hotel,Butwal,3
+85,Upendra Kumar Shah,120,Everest International Deluxe Hotel,Butwal,4
+62,Sudip Kumar Sah,120,Everest International Deluxe Hotel,Butwal,4
+19,Rupak Bista,120,Everest International Deluxe Hotel,Butwal,3
+88,Yashoda Poudel (Subedi),120,Everest International Deluxe Hotel,Butwal,3
+86,Usha Acharya,120,Everest International Deluxe Hotel,Butwal,3
+97, Kanchha Man Lama Moktan ,120,Everest International Deluxe Hotel,Butwal,2
+43,Shanta Giri,120,Everest International Deluxe Hotel,Butwal,2
+96, Laxmi Lopchan Tamang ,120,Everest International Deluxe Hotel,Butwal,2
+87,Yagya Prasad Aryal,120,Everest International Deluxe Hotel,Butwal,
+41,Saroj Sapkota,120,Everest International Deluxe Hotel,Butwal,
+90,Yubaraj Panday,120,Everest International Deluxe Hotel,Butwal,3
+69,Sumitra Shrestha,120,Everest International Deluxe Hotel,Butwal,4
+2,Renuka Dhakal,121,Hotel Homestay,Butwal,4
+76,Surendra Singh Dhami,121,Hotel Homestay,Butwal,3
+93, Ashutosh Kharel ,121,Hotel Homestay,Butwal,
+15,Rukmat Shrestha,121,Hotel Homestay,Butwal,2
+95, Rabindra Shrestha ,121,Hotel Homestay,Butwal,3
+84,Upendra Dahal,121,Hotel Homestay,Butwal,4
+94, Rupa Shrestha ,121,Hotel Homestay,Butwal,
+47,Shiva Prasad Pandit,121,Hotel Homestay,Butwal,3
+56,Siyaram Sah,121,Hotel Homestay,Butwal,3
+34,Sangita Bhattarai,121,Hotel Homestay,Butwal,2
+82,Tika Ram Adhikari,121,Hotel Homestay,Butwal,3
+71,Sunita Adhikari,121,Hotel Homestay,Butwal,4
+67,Sumitra Adhikari,121,Hotel Homestay,Butwal,5
+78,Suresh Raj Bakhrel,121,Hotel Homestay,Butwal,
+5,Rijan Paudyal,121,Hotel Homestay,Butwal,3
+52,Shyam Prasad Dahal,121,Hotel Homestay,Butwal,3
+92, Nabin Subba ,121,Hotel Homestay,Butwal,3
+44,Sharada Paudel,121,Hotel Homestay,Butwal,2
+49,Shreejana Humagain,122,Hotel The Butwal View,Butwal,2
+31,Samjhana Dahal,122,Hotel The Butwal View,Butwal,2
+30,Samir Shrestha,122,Hotel The Butwal View,Butwal,
+99, Bina Tamang ,122,Hotel The Butwal View,Butwal,
+12,Roshan Karkee,122,Hotel The Butwal View,Butwal,4
+97, Kanchha Man Lama Moktan ,122,Hotel The Butwal View,Butwal,
+70,Sunil Maharjan,122,Hotel The Butwal View,Butwal,3
+65,Suman Adhikari,122,Hotel The Butwal View,Butwal,3
+36,Sanjay Kumar Yadav,122,Hotel The Butwal View,Butwal,3
+63,Sujan Regmi,122,Hotel The Butwal View,Butwal,4
+48,Shrawan Kumar Newa Khadgi,122,Hotel The Butwal View,Butwal,3
+40,Santosh Kumar Yadav,122,Hotel The Butwal View,Butwal,
+80,Sushil Bhattrai,122,Hotel The Butwal View,Butwal,2
+4,Richa Maharjan,122,Hotel The Butwal View,Butwal,2
+72,Sunita Gautam,123,Galaxy Guest House And Restaurant,Butwal,
+33,Sandesh Pokhrel,123,Galaxy Guest House And Restaurant,Butwal,4
+81,Thakur Nepal,123,Galaxy Guest House And Restaurant,Butwal,
+96, Laxmi Lopchan Tamang ,123,Galaxy Guest House And Restaurant,Butwal,3
+29,Samir Chaulagain,123,Galaxy Guest House And Restaurant,Butwal,
+35,Sanjay Kumar Mahato,123,Galaxy Guest House And Restaurant,Butwal,2
+75,Surendra Shahi,123,Galaxy Guest House And Restaurant,Butwal,3
+74,Sunita Neupane,123,Galaxy Guest House And Restaurant,Butwal,
+13,Roshan Khatiwada,123,Galaxy Guest House And Restaurant,Butwal,3
+77,Suresh Lage,123,Galaxy Guest House And Restaurant,Butwal,3
+27,Sajan Kunwar,123,Galaxy Guest House And Restaurant,Butwal,4
+91,Yubraj Tripathi,123,Galaxy Guest House And Restaurant,Butwal,3
+95, Rabindra Shrestha ,123,Galaxy Guest House And Restaurant,Butwal,3
+55,Sita Bhattarai,124,Hotel Lacoul,Butwal,4
+39,Santosh Karki,124,Hotel Lacoul,Butwal,
+93, Ashutosh Kharel ,124,Hotel Lacoul,Butwal,5
+53,Siddhi Kumar Shrestha,124,Hotel Lacoul,Butwal,5
+90,Yubaraj Panday,124,Hotel Lacoul,Butwal,3
+73,Sunita Kumari Bam,124,Hotel Lacoul,Butwal,3
+8,Robin Gautam,124,Hotel Lacoul,Butwal,
+51,Shyam Neupane,124,Hotel Lacoul,Butwal,2
+59,Subash Acharya,124,Hotel Lacoul,Butwal,3
+24,Sadhana Bagale,124,Hotel Lacoul,Butwal,2
+50,Shreejana Shrestha,124,Hotel Lacoul,Butwal,5
+23,Sabita Siwakoti,124,Hotel Lacoul,Butwal,4
+37,Santosh Dhakal,124,Hotel Lacoul,Butwal,3
+61,Subhadra Rai,124,Hotel Lacoul,Butwal,
+15,Rukmat Shrestha,125,Bhairav Village Farm,Butwal,2
+66,Suman Kumar Shrestha,125,Bhairav Village Farm,Butwal,3
+84,Upendra Dahal,125,Bhairav Village Farm,Butwal,4
+5,Rijan Paudyal,125,Bhairav Village Farm,Butwal,3
+3,Rewat Kumar Rai,125,Bhairav Village Farm,Butwal,2
+76,Surendra Singh Dhami,125,Bhairav Village Farm,Butwal,3
+32,Sampada Bhurtel,125,Bhairav Village Farm,Butwal,
+99, Bina Tamang ,125,Bhairav Village Farm,Butwal,4
+94, Rupa Shrestha ,125,Bhairav Village Farm,Butwal,3
+93, Ashutosh Kharel ,125,Bhairav Village Farm,Butwal,2
+97, Kanchha Man Lama Moktan ,125,Bhairav Village Farm,Butwal,2
+25,Sagar Nath Yogi,125,Bhairav Village Farm,Butwal,3
+85,Upendra Kumar Shah,125,Bhairav Village Farm,Butwal,3
+62,Sudip Kumar Sah,125,Bhairav Village Farm,Butwal,
+88,Yashoda Poudel (Subedi),125,Bhairav Village Farm,Butwal,3
+21,Sabina Pokhrel,125,Bhairav Village Farm,Butwal,2
+99, Bina Tamang ,126,The Chulo Hotel,Butwal,2
+67,Sumitra Adhikari,126,The Chulo Hotel,Butwal,3
+92, Nabin Subba ,126,The Chulo Hotel,Butwal,4
+84,Upendra Dahal,126,The Chulo Hotel,Butwal,3
+64,Sujita Napit,126,The Chulo Hotel,Butwal,2
+87,Yagya Prasad Aryal,126,The Chulo Hotel,Butwal,2
+22,Sabina Shrestha,126,The Chulo Hotel,Butwal,2
+93, Ashutosh Kharel ,126,The Chulo Hotel,Butwal,4
+9,Rojan Gurung,126,The Chulo Hotel,Butwal,
+97, Kanchha Man Lama Moktan ,126,The Chulo Hotel,Butwal,2
+89,Yasoda Nepal,126,The Chulo Hotel,Butwal,2
+96, Laxmi Lopchan Tamang ,126,The Chulo Hotel,Butwal,3
+65,Suman Adhikari,126,The Chulo Hotel,Butwal,3
+95, Rabindra Shrestha ,126,The Chulo Hotel,Butwal,2
+79,Surya Prasad Rimal,126,The Chulo Hotel,Butwal,
+83,Umesh Dahal,126,The Chulo Hotel,Butwal,2
+57,Som Bahadur Karki,126,The Chulo Hotel,Butwal,2
+26,Sagar Shrestha,126,The Chulo Hotel,Butwal,2
+96, Laxmi Lopchan Tamang ,127,Avocardo And Orchid Resort,Hetauda ,3
+86,Usha Acharya,127,Avocardo And Orchid Resort,Hetauda ,4
+80,Sushil Bhattrai,127,Avocardo And Orchid Resort,Hetauda ,
+78,Suresh Raj Bakhrel,127,Avocardo And Orchid Resort,Hetauda ,4
+41,Saroj Sapkota,127,Avocardo And Orchid Resort,Hetauda ,3
+52,Shyam Prasad Dahal,127,Avocardo And Orchid Resort,Hetauda ,3
+74,Sunita Neupane,127,Avocardo And Orchid Resort,Hetauda ,3
+5,Rijan Paudyal,127,Avocardo And Orchid Resort,Hetauda ,2
+42,Shaili Khadka,127,Avocardo And Orchid Resort,Hetauda ,2
+16,Rukmini Thapa,127,Avocardo And Orchid Resort,Hetauda ,2
+38,Santosh Ghimire,127,Avocardo And Orchid Resort,Hetauda ,3
+68,Sumitra Bajgain Sapkota,127,Avocardo And Orchid Resort,Hetauda ,4
+28,Sameer Manandhar,127,Avocardo And Orchid Resort,Hetauda ,4
+18,Rupa Thapa,127,Avocardo And Orchid Resort,Hetauda ,4
+91,Yubraj Tripathi,127,Avocardo And Orchid Resort,Hetauda ,3
+82,Tika Ram Adhikari,127,Avocardo And Orchid Resort,Hetauda ,3
+60,Subash Dahal,127,Avocardo And Orchid Resort,Hetauda ,2
+58,Sonika Adhikari,127,Avocardo And Orchid Resort,Hetauda ,5
+63,Sujan Regmi,128,Hotel Seema,Hetauda ,4
+48,Shrawan Kumar Newa Khadgi,128,Hotel Seema,Hetauda ,5
+40,Santosh Kumar Yadav,128,Hotel Seema,Hetauda ,
+71,Sunita Adhikari,128,Hotel Seema,Hetauda ,3
+59,Subash Acharya,128,Hotel Seema,Hetauda ,2
+99, Bina Tamang ,128,Hotel Seema,Hetauda ,2
+45,Shimon Shakya,128,Hotel Seema,Hetauda ,4
+69,Sumitra Shrestha,128,Hotel Seema,Hetauda ,5
+31,Samjhana Dahal,128,Hotel Seema,Hetauda ,3
+92, Nabin Subba ,128,Hotel Seema,Hetauda ,2
+44,Sharada Paudel,128,Hotel Seema,Hetauda ,2
+19,Rupak Bista,128,Hotel Seema,Hetauda ,4
+7,Rita Thapa,128,Hotel Seema,Hetauda ,5
+30,Samir Shrestha,128,Hotel Seema,Hetauda ,5
+33,Sandesh Pokhrel,128,Hotel Seema,Hetauda ,4
+27,Sajan Kunwar,129,Hotel Om Namo Buddha,Hetauda ,3
+66,Suman Kumar Shrestha,129,Hotel Om Namo Buddha,Hetauda ,
+14,Roshani Gautam,129,Hotel Om Namo Buddha,Hetauda ,3
+90,Yubaraj Panday,129,Hotel Om Namo Buddha,Hetauda ,5
+88,Yashoda Poudel (Subedi),129,Hotel Om Namo Buddha,Hetauda ,5
+9,Rojan Gurung,129,Hotel Om Namo Buddha,Hetauda ,4
+53,Siddhi Kumar Shrestha,129,Hotel Om Namo Buddha,Hetauda ,3
+56,Siyaram Sah,129,Hotel Om Namo Buddha,Hetauda ,
+73,Sunita Kumari Bam,129,Hotel Om Namo Buddha,Hetauda ,
+4,Richa Maharjan,129,Hotel Om Namo Buddha,Hetauda ,4
+2,Renuka Dhakal,129,Hotel Om Namo Buddha,Hetauda ,5
+51,Shyam Neupane,129,Hotel Om Namo Buddha,Hetauda ,5
+75,Surendra Shahi,129,Hotel Om Namo Buddha,Hetauda ,
+50,Shreejana Shrestha,129,Hotel Om Namo Buddha,Hetauda ,3
+11,Roshan Baniya,129,Hotel Om Namo Buddha,Hetauda ,4
+81,Thakur Nepal,129,Hotel Om Namo Buddha,Hetauda ,3
+43,Shanta Giri,130,Quick 20,Hetauda ,2
+61,Subhadra Rai,130,Quick 20,Hetauda ,2
+87,Yagya Prasad Aryal,130,Quick 20,Hetauda ,3
+77,Suresh Lage,130,Quick 20,Hetauda ,3
+24,Sadhana Bagale,130,Quick 20,Hetauda ,5
+90,Yubaraj Panday,130,Quick 20,Hetauda ,4
+76,Surendra Singh Dhami,130,Quick 20,Hetauda ,4
+89,Yasoda Nepal,130,Quick 20,Hetauda ,3
+15,Rukmat Shrestha,130,Quick 20,Hetauda ,4
+85,Upendra Kumar Shah,130,Quick 20,Hetauda ,5
+94, Rupa Shrestha ,130,Quick 20,Hetauda ,4
+47,Shiva Prasad Pandit,130,Quick 20,Hetauda ,3
+97, Kanchha Man Lama Moktan ,130,Quick 20,Hetauda ,2
+34,Sangita Bhattarai,130,Quick 20,Hetauda ,4
+10,Ronish Karki,130,Quick 20,Hetauda ,3
+39,Santosh Karki,130,Quick 20,Hetauda ,3
+95, Rabindra Shrestha ,130,Quick 20,Hetauda ,4
+23,Sabita Siwakoti,130,Quick 20,Hetauda ,4
+96, Laxmi Lopchan Tamang ,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,4
+35,Sanjay Kumar Mahato,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,3
+93, Ashutosh Kharel ,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,3
+37,Santosh Dhakal,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,
+91,Yubraj Tripathi,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,3
+20,Sabina Basnet,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,5
+49,Shreejana Humagain,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,4
+60,Subash Dahal,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,3
+82,Tika Ram Adhikari,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,2
+54,Sirjana Darlami,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,3
+52,Shyam Prasad Dahal,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,2
+3,Rewat Kumar Rai,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,3
+57,Som Bahadur Karki,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,3
+9,Rojan Gurung,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,3
+73,Sunita Kumari Bam,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,3
+83,Umesh Dahal,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,4
+25,Sagar Nath Yogi,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,4
+78,Suresh Raj Bakhrel,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,
+85,Upendra Kumar Shah,131,Hotel Suryansh Pvt. Ltd.,Hetauda ,3
+52,Shyam Prasad Dahal,132,Mirge Boutique Hotel,Hetauda ,2
+16,Rukmini Thapa,132,Mirge Boutique Hotel,Hetauda ,4
+92, Nabin Subba ,132,Mirge Boutique Hotel,Hetauda ,5
+97, Kanchha Man Lama Moktan ,132,Mirge Boutique Hotel,Hetauda ,3
+36,Sanjay Kumar Yadav,132,Mirge Boutique Hotel,Hetauda ,2
+38,Santosh Ghimire,132,Mirge Boutique Hotel,Hetauda ,2
+26,Sagar Shrestha,132,Mirge Boutique Hotel,Hetauda ,
+96, Laxmi Lopchan Tamang ,132,Mirge Boutique Hotel,Hetauda ,
+32,Sampada Bhurtel,132,Mirge Boutique Hotel,Hetauda ,
+95, Rabindra Shrestha ,132,Mirge Boutique Hotel,Hetauda ,4
+84,Upendra Dahal,132,Mirge Boutique Hotel,Hetauda ,4
+90,Yubaraj Panday,132,Mirge Boutique Hotel,Hetauda ,3
+87,Yagya Prasad Aryal,132,Mirge Boutique Hotel,Hetauda ,3
+62,Sudip Kumar Sah,133,Manash Hotel,Hetauda ,4
+4,Richa Maharjan,133,Manash Hotel,Hetauda ,3
+80,Sushil Bhattrai,133,Manash Hotel,Hetauda ,
+51,Shyam Neupane,133,Manash Hotel,Hetauda ,3
+69,Sumitra Shrestha,133,Manash Hotel,Hetauda ,4
+41,Saroj Sapkota,133,Manash Hotel,Hetauda ,
+46,Shital Sharma,133,Manash Hotel,Hetauda ,2
+86,Usha Acharya,133,Manash Hotel,Hetauda ,3
+44,Sharada Paudel,133,Manash Hotel,Hetauda ,4
+64,Sujita Napit,133,Manash Hotel,Hetauda ,3
+22,Sabina Shrestha,133,Manash Hotel,Hetauda ,3
+77,Suresh Lage,133,Manash Hotel,Hetauda ,4
+68,Sumitra Bajgain Sapkota,133,Manash Hotel,Hetauda ,3
+49,Shreejana Humagain,133,Manash Hotel,Hetauda ,2
+1,Rekha Poudel,133,Manash Hotel,Hetauda ,4
+89,Yasoda Nepal,133,Manash Hotel,Hetauda ,
+55,Sita Bhattarai,133,Manash Hotel,Hetauda ,4
+79,Surya Prasad Rimal,133,Manash Hotel,Hetauda ,3
+75,Surendra Shahi,133,Manash Hotel,Hetauda ,3
+63,Sujan Regmi,133,Manash Hotel,Hetauda ,
+88,Yashoda Poudel (Subedi),134,Hotel Forest View,Hetauda ,2
+71,Sunita Adhikari,134,Hotel Forest View,Hetauda ,
+34,Sangita Bhattarai,134,Hotel Forest View,Hetauda ,3
+59,Subash Acharya,134,Hotel Forest View,Hetauda ,
+85,Upendra Kumar Shah,134,Hotel Forest View,Hetauda ,3
+12,Roshan Karkee,134,Hotel Forest View,Hetauda ,4
+7,Rita Thapa,134,Hotel Forest View,Hetauda ,3
+50,Shreejana Shrestha,134,Hotel Forest View,Hetauda ,3
+67,Sumitra Adhikari,134,Hotel Forest View,Hetauda ,4
+99, Bina Tamang ,134,Hotel Forest View,Hetauda ,3
+74,Sunita Neupane,134,Hotel Forest View,Hetauda ,
+48,Shrawan Kumar Newa Khadgi,134,Hotel Forest View,Hetauda ,
+15,Rukmat Shrestha,134,Hotel Forest View,Hetauda ,3
+81,Thakur Nepal,134,Hotel Forest View,Hetauda ,3
+27,Sajan Kunwar,134,Hotel Forest View,Hetauda ,2
+76,Surendra Singh Dhami,134,Hotel Forest View,Hetauda ,3
+24,Sadhana Bagale,135,Aashirbadh Hitel,Hetauda ,4
+65,Suman Adhikari,135,Aashirbadh Hitel,Hetauda ,3
+6,Rishikesh Gnawali,135,Aashirbadh Hitel,Hetauda ,
+4,Richa Maharjan,135,Aashirbadh Hitel,Hetauda ,2
+94, Rupa Shrestha ,135,Aashirbadh Hitel,Hetauda ,3
+2,Renuka Dhakal,135,Aashirbadh Hitel,Hetauda ,3
+40,Santosh Kumar Yadav,135,Aashirbadh Hitel,Hetauda ,4
+58,Sonika Adhikari,135,Aashirbadh Hitel,Hetauda ,
+19,Rupak Bista,135,Aashirbadh Hitel,Hetauda ,3
+21,Sabina Pokhrel,135,Aashirbadh Hitel,Hetauda ,2
+39,Santosh Karki,135,Aashirbadh Hitel,Hetauda ,2
+93, Ashutosh Kharel ,135,Aashirbadh Hitel,Hetauda ,3
+23,Sabita Siwakoti,135,Aashirbadh Hitel,Hetauda ,3
+92, Nabin Subba ,135,Aashirbadh Hitel,Hetauda ,4
+42,Shaili Khadka,135,Aashirbadh Hitel,Hetauda ,4
+11,Roshan Baniya,135,Aashirbadh Hitel,Hetauda ,3
+43,Shanta Giri,135,Aashirbadh Hitel,Hetauda ,3
+37,Santosh Dhakal,135,Aashirbadh Hitel,Hetauda ,2
+26,Sagar Shrestha,136,Regal Hetauda Resort,Hetauda ,2
+28,Sameer Manandhar,136,Regal Hetauda Resort,Hetauda ,2
+93, Ashutosh Kharel ,136,Regal Hetauda Resort,Hetauda ,2
+10,Ronish Karki,136,Regal Hetauda Resort,Hetauda ,3
+97, Kanchha Man Lama Moktan ,136,Regal Hetauda Resort,Hetauda ,
+82,Tika Ram Adhikari,136,Regal Hetauda Resort,Hetauda ,3
+94, Rupa Shrestha ,136,Regal Hetauda Resort,Hetauda ,4
+47,Shiva Prasad Pandit,136,Regal Hetauda Resort,Hetauda ,4
+57,Som Bahadur Karki,136,Regal Hetauda Resort,Hetauda ,3
+13,Roshan Khatiwada,136,Regal Hetauda Resort,Hetauda ,
+73,Sunita Kumari Bam,136,Regal Hetauda Resort,Hetauda ,2
+90,Yubaraj Panday,136,Regal Hetauda Resort,Hetauda ,3
+96, Laxmi Lopchan Tamang ,136,Regal Hetauda Resort,Hetauda ,4
+78,Suresh Raj Bakhrel,136,Regal Hetauda Resort,Hetauda ,
+41,Saroj Sapkota,136,Regal Hetauda Resort,Hetauda ,3
+92, Nabin Subba ,136,Regal Hetauda Resort,Hetauda ,3
+86,Usha Acharya,136,Regal Hetauda Resort,Hetauda ,2
+35,Sanjay Kumar Mahato,137,Hotel The Galaxy Durbar,Nepalgunj ,3
+3,Rewat Kumar Rai,137,Hotel The Galaxy Durbar,Nepalgunj ,4
+95, Rabindra Shrestha ,137,Hotel The Galaxy Durbar,Nepalgunj ,5
+38,Santosh Ghimire,137,Hotel The Galaxy Durbar,Nepalgunj ,
+33,Sandesh Pokhrel,137,Hotel The Galaxy Durbar,Nepalgunj ,3
+18,Rupa Thapa,137,Hotel The Galaxy Durbar,Nepalgunj ,3
+45,Shimon Shakya,137,Hotel The Galaxy Durbar,Nepalgunj ,3
+14,Roshani Gautam,137,Hotel The Galaxy Durbar,Nepalgunj ,2
+94, Rupa Shrestha ,137,Hotel The Galaxy Durbar,Nepalgunj ,2
+87,Yagya Prasad Aryal,137,Hotel The Galaxy Durbar,Nepalgunj ,2
+97, Kanchha Man Lama Moktan ,137,Hotel The Galaxy Durbar,Nepalgunj ,
+63,Sujan Regmi,137,Hotel The Galaxy Durbar,Nepalgunj ,
+82,Tika Ram Adhikari,137,Hotel The Galaxy Durbar,Nepalgunj ,4
+90,Yubaraj Panday,137,Hotel The Galaxy Durbar,Nepalgunj ,
+80,Sushil Bhattrai,137,Hotel The Galaxy Durbar,Nepalgunj ,3
+25,Sagar Nath Yogi,137,Hotel The Galaxy Durbar,Nepalgunj ,3
+83,Umesh Dahal,137,Hotel The Galaxy Durbar,Nepalgunj ,3
+75,Surendra Shahi,137,Hotel The Galaxy Durbar,Nepalgunj ,4
+78,Suresh Raj Bakhrel,137,Hotel The Galaxy Durbar,Nepalgunj ,3
+29,Samir Chaulagain,137,Hotel The Galaxy Durbar,Nepalgunj ,
+73,Sunita Kumari Bam,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,2
+72,Sunita Gautam,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,2
+66,Suman Kumar Shrestha,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,
+56,Siyaram Sah,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,4
+51,Shyam Neupane,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,
+32,Sampada Bhurtel,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,3
+44,Sharada Paudel,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,
+31,Samjhana Dahal,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,2
+70,Sunil Maharjan,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,3
+62,Sudip Kumar Sah,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,
+65,Suman Adhikari,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,3
+53,Siddhi Kumar Shrestha,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,3
+61,Subhadra Rai,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,4
+60,Subash Dahal,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,3
+46,Shital Sharma,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,3
+20,Sabina Basnet,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,4
+36,Sanjay Kumar Yadav,138,"Siddhartha Hotel, Nepalgunj",Nepalgunj ,
+30,Samir Shrestha,139,Hotel Sneha,Nepalgunj ,5
+8,Robin Gautam,139,Hotel Sneha,Nepalgunj ,5
+26,Sagar Shrestha,139,Hotel Sneha,Nepalgunj ,3
+28,Sameer Manandhar,139,Hotel Sneha,Nepalgunj ,3
+93, Ashutosh Kharel ,139,Hotel Sneha,Nepalgunj ,
+10,Ronish Karki,139,Hotel Sneha,Nepalgunj ,2
+97, Kanchha Man Lama Moktan ,139,Hotel Sneha,Nepalgunj ,3
+82,Tika Ram Adhikari,139,Hotel Sneha,Nepalgunj ,4
+94, Rupa Shrestha ,139,Hotel Sneha,Nepalgunj ,5
+47,Shiva Prasad Pandit,139,Hotel Sneha,Nepalgunj ,4
+57,Som Bahadur Karki,139,Hotel Sneha,Nepalgunj ,3
+13,Roshan Khatiwada,139,Hotel Sneha,Nepalgunj ,
+73,Sunita Kumari Bam,139,Hotel Sneha,Nepalgunj ,2
+90,Yubaraj Panday,139,Hotel Sneha,Nepalgunj ,3
+96, Laxmi Lopchan Tamang ,139,Hotel Sneha,Nepalgunj ,4
+78,Suresh Raj Bakhrel,139,Hotel Sneha,Nepalgunj ,3
+41,Saroj Sapkota,139,Hotel Sneha,Nepalgunj ,2
+92, Nabin Subba ,140,Hotel Central Plazza,Nepalgunj ,3
+86,Usha Acharya,140,Hotel Central Plazza,Nepalgunj ,
+35,Sanjay Kumar Mahato,140,Hotel Central Plazza,Nepalgunj ,4
+3,Rewat Kumar Rai,140,Hotel Central Plazza,Nepalgunj ,3
+95, Rabindra Shrestha ,140,Hotel Central Plazza,Nepalgunj ,2
+38,Santosh Ghimire,140,Hotel Central Plazza,Nepalgunj ,2
+33,Sandesh Pokhrel,140,Hotel Central Plazza,Nepalgunj ,3
+18,Rupa Thapa,140,Hotel Central Plazza,Nepalgunj ,3
+45,Shimon Shakya,140,Hotel Central Plazza,Nepalgunj ,
+14,Roshani Gautam,140,Hotel Central Plazza,Nepalgunj ,3
+87,Yagya Prasad Aryal,140,Hotel Central Plazza,Nepalgunj ,2
+97, Kanchha Man Lama Moktan ,140,Hotel Central Plazza,Nepalgunj ,2
+63,Sujan Regmi,140,Hotel Central Plazza,Nepalgunj ,3
+82, Rupa Shrestha ,140,Hotel Central Plazza,Nepalgunj ,4
+90,Tika Ram Adhikari,140,Hotel Central Plazza,Nepalgunj ,3
+80,Yubaraj Panday,140,Hotel Central Plazza,Nepalgunj ,4
+25,Sushil Bhattrai,140,Hotel Central Plazza,Nepalgunj ,2
+47,Shiva Prasad Pandit,141,Hotel New Atithi,Nepalgunj ,2
+85,Upendra Kumar Shah,141,Hotel New Atithi,Nepalgunj ,4
+63,Sujan Regmi,141,Hotel New Atithi,Nepalgunj ,
+21,Sabina Pokhrel,141,Hotel New Atithi,Nepalgunj ,2
+75,Surendra Shahi,141,Hotel New Atithi,Nepalgunj ,2
+88,Yashoda Poudel (Subedi),141,Hotel New Atithi,Nepalgunj ,3
+27,Sajan Kunwar,141,Hotel New Atithi,Nepalgunj ,3
+72,Sunita Gautam,141,Hotel New Atithi,Nepalgunj ,2
+18,Rupa Thapa,141,Hotel New Atithi,Nepalgunj ,
+80,Sushil Bhattrai,141,Hotel New Atithi,Nepalgunj ,2
+69,Sumitra Shrestha,141,Hotel New Atithi,Nepalgunj ,2
+49,Shreejana Humagain,141,Hotel New Atithi,Nepalgunj ,2
+40,Santosh Kumar Yadav,141,Hotel New Atithi,Nepalgunj ,3
+73,Sunita Kumari Bam,141,Hotel New Atithi,Nepalgunj ,4
+76,Surendra Singh Dhami,141,Hotel New Atithi,Nepalgunj ,
+19,Rupak Bista,141,Hotel New Atithi,Nepalgunj ,4
+90,Yubaraj Panday,141,Hotel New Atithi,Nepalgunj ,3
+12,Roshan Karkee,141,Hotel New Atithi,Nepalgunj ,3
+71,Sunita Adhikari,141,Hotel New Atithi,Nepalgunj ,3
+53,Siddhi Kumar Shrestha,141,Hotel New Atithi,Nepalgunj ,2
+97, Kanchha Man Lama Moktan ,141,Hotel New Atithi,Nepalgunj ,2
+46,Shital Sharma,142,Traveller's Village,Nepalgunj ,2
+93, Ashutosh Kharel ,142,Traveller's Village,Nepalgunj ,3
+91,Yubraj Tripathi,142,Traveller's Village,Nepalgunj ,4
+62,Sudip Kumar Sah,142,Traveller's Village,Nepalgunj ,4
+4,Richa Maharjan,142,Traveller's Village,Nepalgunj ,4
+77,Suresh Lage,142,Traveller's Village,Nepalgunj ,3
+99, Bina Tamang ,142,Traveller's Village,Nepalgunj ,3
+31,Samjhana Dahal,142,Traveller's Village,Nepalgunj ,2
+52,Shyam Prasad Dahal,142,Traveller's Village,Nepalgunj ,3
+67,Sumitra Adhikari,142,Traveller's Village,Nepalgunj ,4
+38,Santosh Ghimire,142,Traveller's Village,Nepalgunj ,5
+7,Rita Thapa,142,Traveller's Village,Nepalgunj ,
+90,Yubaraj Panday,142,Traveller's Village,Nepalgunj ,3
+6,Rishikesh Gnawali,142,Traveller's Village,Nepalgunj ,2
+30,Samir Shrestha,142,Traveller's Village,Nepalgunj ,2
+55,Sita Bhattarai,142,Traveller's Village,Nepalgunj ,4
+86,Usha Acharya,142,Traveller's Village,Nepalgunj ,5
+43,Shanta Giri,142,Traveller's Village,Nepalgunj ,3
+54,Sirjana Darlami,142,Traveller's Village,Nepalgunj ,2
+33,Sandesh Pokhrel,142,Traveller's Village,Nepalgunj ,2
+68,Sumitra Bajgain Sapkota,142,Traveller's Village,Nepalgunj ,4
+41,Saroj Sapkota,142,Traveller's Village,Nepalgunj ,5
+56,Siyaram Sah,142,Traveller's Village,Nepalgunj ,5
+2,Renuka Dhakal,142,Traveller's Village,Nepalgunj ,4
+51,Shyam Neupane,142,Traveller's Village,Nepalgunj ,3
+13,Roshan Khatiwada,143,Hotel Pahuna Ghar,Nepalgunj ,
+48,Shrawan Kumar Newa Khadgi,143,Hotel Pahuna Ghar,Nepalgunj ,3
+37,Santosh Dhakal,143,Hotel Pahuna Ghar,Nepalgunj ,4
+82,Tika Ram Adhikari,143,Hotel Pahuna Ghar,Nepalgunj ,5
+34,Sangita Bhattarai,143,Hotel Pahuna Ghar,Nepalgunj ,4
+92, Nabin Subba ,143,Hotel Pahuna Ghar,Nepalgunj ,3
+89,Yasoda Nepal,143,Hotel Pahuna Ghar,Nepalgunj ,
+9,Rojan Gurung,143,Hotel Pahuna Ghar,Nepalgunj ,
+94, Rupa Shrestha ,143,Hotel Pahuna Ghar,Nepalgunj ,2
+39,Santosh Karki,143,Hotel Pahuna Ghar,Nepalgunj ,3
+14,Roshani Gautam,143,Hotel Pahuna Ghar,Nepalgunj ,2
+97, Kanchha Man Lama Moktan ,143,Hotel Pahuna Ghar,Nepalgunj ,
+26,Sagar Shrestha,143,Hotel Pahuna Ghar,Nepalgunj ,3
+99, Bina Tamang ,143,Hotel Pahuna Ghar,Nepalgunj ,3
+74,Sunita Neupane,143,Hotel Pahuna Ghar,Nepalgunj ,5
+95, Rabindra Shrestha ,143,Hotel Pahuna Ghar,Nepalgunj ,4
+58, Bina Tamang ,143,Hotel Pahuna Ghar,Nepalgunj ,3
+15,Sonika Adhikari,143,Hotel Pahuna Ghar,Nepalgunj ,4
+87,Rukmat Shrestha,143,Hotel Pahuna Ghar,Nepalgunj ,5
+22,Yagya Prasad Aryal,143,Hotel Pahuna Ghar,Nepalgunj ,4
+64,Sabina Shrestha,143,Hotel Pahuna Ghar,Nepalgunj ,3
