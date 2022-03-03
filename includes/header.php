@@ -5,9 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/all.min.css">
+    <!-- <link rel="stylesheet" href="css/all.min.css"> -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/rating.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
     <title>Hotel</title>
 </head>
 <body>
@@ -37,6 +39,11 @@
           <a class="nav-link active" aria-current="page" href="contact.php">Contact</a>
         </li>
       </ul>
+      <div class="float-end">
+      <button class="btn btn-outline-success button" type="button" onclick="location.href = 'signup.php';">Sign up</button>
+      <button class="btn btn-outline-success button" type="button" onclick="location.href = 'signin.php';">Sign in</button>
+</div>
+     
       </div>
   </div>
 </nav>

@@ -5,17 +5,14 @@ include("includes/header.php");
 ?>
 
 
-      <div class="float-end">
-      <button class="btn btn-outline-success button" type="button" onclick="location.href = 'signup.php';">Sign up</button>
-      <button class="btn btn-outline-success button" type="button" onclick="location.href = 'signin.php';">Sign in</button>
-</div>
      
 
 <!-- End Navigation --> 
-
+<!-- <script defer sec="script.js"></script> -->
 <div class="hotel" class="tab-pane fade in active" style="background-color:white;">
-						      <form method="post" class="colorlib-form" action="hotel_display.php">
-				              	<div class="row">
+                  <div id="error"></div>
+                  <form method="get" class="colorlib-form" action="hotel_display1.php">
+            <div class="row">
 				              	 <div class="col-md-2">
 				              	 	<div class="booknow">
 				              	 		<h2>Check availability</h2>
@@ -27,7 +24,7 @@ include("includes/header.php");
 				                    <label for="date">Check-in:</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-calendar2"></i>
-				                      <input type="date" id="date" class="form-control date" placeholder="Check-in date">
+				                      <input type="date" id="cin" name="cin" class="form-control date" placeholder="Check-in date" required>
 				                    </div>
 				                  </div>
 				                </div>
@@ -36,7 +33,7 @@ include("includes/header.php");
 				                    <label for="date">Check-out:</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-calendar2"></i>
-				                      <input type="date" id="date" class="form-control date" placeholder="Check-out date">
+				                      <input type="date" id="cout" name="cout" class="form-control date" placeholder="Check-out date" required>
 				                    </div>
 				                  </div>
 				                </div>
@@ -45,7 +42,7 @@ include("includes/header.php");
 				                    <label for="guests">Guest</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-arrow-down3"></i>
-				                      <select name="people" id="people" class="form-control">
+				                      <select name="people" id="people" class="form-control" required>
 				                        <option value="#">1</option>
 				                        <option value="#">2</option>
 				                        <option value="#">3</option>
@@ -57,10 +54,10 @@ include("includes/header.php");
 				                </div>
 				                <div class="col-md-2">
 				                  <div class="form-group" class="hh">
-				                    <label for="guests">Rooms</label>
+				                    <label for="room">Rooms</label>
 				                    <div class="form-field">
 				                      <i class="icon icon-arrow-down3"></i>
-				                      <select name="people" id="people" class="form-control">
+				                      <select name="room" id="room" class="form-control" required>
 				                        <option value="#">1</option>
 				                        <option value="#">2</option>
 				                        <option value="#">3</option>
@@ -74,8 +71,10 @@ include("includes/header.php");
 				                  <input type="submit" name="submit" id="submit" value="Check now" class="btn btn-primary btn-block" style="margin-top:22px;">
 				                </div>
 				              </div>
-				            </form>
+</form>
+				          
 						   </div>
+
 <br><br>
   <div class="card-group">
     <div class="card">
@@ -96,53 +95,53 @@ include("includes/header.php");
   
   <br><br>
   <div class="container">
-        <span class="float-front">Click any button to proceed</span>    
-        <button type="button" class="button float-end">View All</button>
+        <span align="center">Some Hotels With Their Price</span>    
+        
       <br><br>
       <div class="row row-cols-1 row-cols-md-4 g-2">
      
       <div class="col">
-  <div class="card" style="width: 17rem;">
+  <div class="card" style="width: 17rem; height:23rem">
   <img src="img/download.jpg" class="card-img-top" alt="..." width="500">
   <div class="card-body">
   <span>Kathmandu, Nepal<span>
     <h5 class="card-title">Everest Hotel</h5>
     <p class="card-text">$200 per night</p>
-    <a href="#" class="btn btn-primary">Details</a>
+    <!-- <a href="#" class="btn btn-primary">View Photos</a> -->
   </div>
 </div>
   </div>
 
   <div class="col">
-  <div class="card" style="width: 17rem;">
+  <div class="card" style="width: 17rem; height:23rem">
   <img src="img/anna.jpg" class="card-img-top" alt="..." width="500" height="191">
   <div class="card-body">
   <span>Kathmandu, Nepal<span>
-    <h5 class="card-title">Everest Hotel</h5>
+    <h5 class="card-title">Radisson Hotel</h5>
     <p class="card-text">$200 per night</p>
-    <a href="#" class="btn btn-primary">Details</a>
+    <!-- <a href="#" class="btn btn-primary">Details</a> -->
   </div>
 </div>
   </div>
   <div class="col">
-  <div class="card" style="width: 17rem;">
-  <img src="img/download.jpg" class="card-img-top" alt="..." width="500">
+  <div class="card" style="width: 17rem; height:23rem">
+  <img src="img/annapurna.jpg" class="card-img-top" alt="..." width="500">
   <div class="card-body">
   <span>Kathmandu, Nepal<span>
-    <h5 class="card-title">Everest Hotel</h5>
+    <h5 class="card-title">Annapurna Hotel</h5>
     <p class="card-text">$200 per night</p>
-    <a href="#" class="btn btn-primary">Details</a>
+    <!-- <a href="#" class="btn btn-primary">Details</a> -->
   </div>
 </div>
   </div>
   <div class="col">
-  <div class="card" style="width: 17rem;">
-  <img src="img/download.jpg" class="card-img-top" alt="..." width="500">
+  <div class="card" style="width: 17rem; height:23rem">
+  <img src="img/dwarika.jpg" class="card-img-top" alt="..." width="500">
   <div class="card-body">
   <span>Kathmandu, Nepal<span>
-    <h5 class="card-title">Everest Hotel</h5>
+    <h5 class="card-title">Dwarika Hotel</h5>
     <p class="card-text">$200 per night</p>
-    <a href="#" class="btn btn-primary">Details</a>
+    <!-- <a href="#" class="btn btn-primary">Details</a> -->
   </div>
 </div>
   </div>

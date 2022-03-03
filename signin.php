@@ -3,15 +3,21 @@
     session_start();
     if(!isset($_SESSION['is_login'])){
             if(isset($_REQUEST['rSubmit'])){
-            $rEmail = trim($_REQUEST['email']);
+            $rUsername = trim($_REQUEST['username']);
+            
             $rPassword = trim($_REQUEST['pass']);
 
-            $sql = "SELECT email, password FROM reg_tb WHERE email = 
-            '".$rEmail."' AND password = '".$rPassword."' limit 1";
+            
+
+            $sql = "SELECT id,email,username,password FROM users WHERE username = 
+            '".$rUsername."' AND password = '".$rPassword."' limit 1";
             $result = $conn->query($sql);
             if($result->num_rows == 1){
+                $row=mysqli_fetch_assoc($result);
                 $_SESSION['is_login'] = true;
-                $_SESSION['email'] = $rEmail;
+                $_SESSION['username'] = $rUsername;
+                $_SESSION['USER_ID']=$row['id'];
+                // $_SESSION['username']=$row['username'];
                 if(isset($_REQUEST['remember'])){
                 setcookie('email','$rEmail',time()+60*60*7);
                 setcookie('pass','$rPassword',time()+60*60*7);
@@ -26,7 +32,13 @@
         
             echo "<script> location.href='user.php' </script>";
     }
-?>
+    if(isset($_SESSION['is_login']) && $_SESSION['is_login']=='yes'){
+    }
+        
+        ?>
+        
+    
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -45,9 +57,9 @@
         <h1>Login</h1>
         <form method="post">
             <div class="txt_field">
-                <input type="email" name="email" required>
+                <input type="username" name="username" required>
                 <span></span>
-                <label>Email</label>
+                <label>Username</label>
                
             </div>
             
@@ -65,12 +77,12 @@
             
 </form>
  <?php
-        if(isset($_COOKIE['email']) and isset($_COOKIE['pass'])){
-            $email = $_COOKIE['email'];
+        if(isset($_COOKIE['username']) and isset($_COOKIE['pass'])){
+            $email = $_COOKIE['username'];
             $pass = $_COOKIE['pass'];
 
             echo "<script>
-                document.getElementById('email').value = '$email';
+                document.getElementById('username').value = '$username';
                 document.getElementById('pass').value = '$pass';
             
             </script>";

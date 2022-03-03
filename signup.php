@@ -3,14 +3,13 @@
     if(isset($_REQUEST['rSignup'])){
 
     //Assigning user's values to Variables
-    $rFname = $_REQUEST['f_name'];
-    $rLname = $_REQUEST['l_name'];
+    $uname=$_REQUEST['u_name'];
     $rEmail = $_REQUEST['email'];
     $rPassword = $_REQUEST['pass'];
-    $rAddress = $_REQUEST['address'];
+    // $rAddress = $_REQUEST['address'];
     $rGender = $_REQUEST['gender'];
 
-    $sql = "INSERT INTO reg_tb(fname,lname,email,password,address,gender) VALUES('$rFname', ' $rLname', '$rEmail', '$rPassword', '$rAddress', '$rGender')";
+    $sql = "INSERT INTO users(username,email,password,gender) VALUES('$uname','$rEmail', '$rPassword', '$rGender')";
     $conn->query($sql);
     
 }
@@ -31,16 +30,12 @@
     <div class="center">
         <h1>Register</h1>
         <form method="post">
-            <div class="txt_field">
-                <input type="text" name="f_name" required>
+        <div class="txt_field">
+                <input type="text" name="u_name" required>
                 <span></span>
-                <label>First Name</label>
+                <label>Username</label>
             </div>
-            <div class="txt_field">
-                <input type="text" name="l_name" required>
-                <span></span>
-                <label>Last Name</label>
-            </div>
+
             <div class="txt_field">
                 <input type="email" name="email" required>
                 <span></span>

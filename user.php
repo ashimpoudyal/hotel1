@@ -30,15 +30,7 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">About us</a>
         </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarScrollingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Location
-          </a>
-          <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
-            <li><a class="dropdown-item" href="#">Kathmandu</a></li>
-            <li><a class="dropdown-item" href="#">Pokhara</a></li>
-          </ul>
-        </li>
+        
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Contact</a>
         </li>
@@ -51,6 +43,72 @@
 </nav>
 
 <!-- End Navigation --> 
+<div class="hotel" class="tab-pane fade in active" style="background-color:white;">
+                  <div id="error"></div>
+						     
+                  <form method="get" class="colorlib-form" action="hotel_display1.php">
+            <div class="row">
+				              	 <div class="col-md-2">
+				              	 	<div class="booknow">
+				              	 		<h2>Check availability</h2>
+					              	 	<span>Reserve now</span>
+				              	 	</div>
+				              	 </div>
+				                <div class="col-md-2">
+				                  <div class="form-group" class="hh">
+				                    <label for="date">Check-in:</label>
+				                    <div class="form-field">
+				                      <i class="icon icon-calendar2"></i>
+				                      <input type="date" id="cin" name="cin" class="form-control date" placeholder="Check-in date" required>
+				                    </div>
+				                  </div>
+				                </div>
+				                <div class="col-md-2">
+				                  <div class="form-group" class="hh">
+				                    <label for="date">Check-out:</label>
+				                    <div class="form-field">
+				                      <i class="icon icon-calendar2"></i>
+				                      <input type="date" id="cout" name="cout" class="form-control date" placeholder="Check-out date" required>
+				                    </div>
+				                  </div>
+				                </div>
+				                <div class="col-md-2">
+				                  <div class="form-group" class="hh">
+				                    <label for="guests">Guest</label>
+				                    <div class="form-field">
+				                      <i class="icon icon-arrow-down3"></i>
+				                      <select name="people" id="people" class="form-control" required>
+				                        <option value="#">1</option>
+				                        <option value="#">2</option>
+				                        <option value="#">3</option>
+				                        <option value="#">4</option>
+				                        <option value="#">5+</option>
+				                      </select>
+				                    </div>
+				                  </div>
+				                </div>
+				                <div class="col-md-2">
+				                  <div class="form-group" class="hh">
+				                    <label for="room">Rooms</label>
+				                    <div class="form-field">
+				                      <i class="icon icon-arrow-down3"></i>
+				                      <select name="room" id="room" class="form-control" required>
+				                        <option value="#">1</option>
+				                        <option value="#">2</option>
+				                        <option value="#">3</option>
+				                        <option value="#">4</option>
+				                        <option value="#">5+</option>
+				                      </select>
+				                    </div>
+				                  </div>
+				                </div>
+				                <div class="col-2">
+				                  <input type="submit" name="submit" id="submit" value="Check now" class="btn btn-primary btn-block" style="margin-top:22px;">
+				                </div>
+				              </div>
+</form>
+				          
+						   </div>
 
   <div class="card-group">
     <div class="card">
@@ -71,53 +129,53 @@
 
   <br><br>
   <div class="container">
-        <span class="float-front">Click any button to proceed</span>    
-        <button type="button" class="button float-end">View All</button>
-      <br><br>
+        <span class="float-front">Some Hotels With Their Price</span>    
+        <!-- <button type="button" class="button float-end">View All</button>
+      <br><br> -->
       <div class="row row-cols-1 row-cols-md-4 g-2">
      
       <div class="col">
-  <div class="card" style="width: 17rem;">
+      <div class="card" style="width: 17rem; height:23rem">
   <img src="img/download.jpg" class="card-img-top" alt="..." width="500">
   <div class="card-body">
   <span>Kathmandu, Nepal<span>
     <h5 class="card-title">Everest Hotel</h5>
     <p class="card-text">$200 per night</p>
-    <a href="#" class="btn btn-primary">Details</a>
+    <!-- <a href="#" class="btn btn-primary">View Photos</a> -->
   </div>
 </div>
   </div>
 
   <div class="col">
-  <div class="card" style="width: 17rem;">
+  <div class="card" style="width: 17rem; height:23rem">
   <img src="img/anna.jpg" class="card-img-top" alt="..." width="500" height="191">
   <div class="card-body">
   <span>Kathmandu, Nepal<span>
-    <h5 class="card-title">Everest Hotel</h5>
+    <h5 class="card-title">Radisson Hotel</h5>
     <p class="card-text">$200 per night</p>
-    <a href="#" class="btn btn-primary">Details</a>
+    <!-- <a href="#" class="btn btn-primary">Details</a> -->
   </div>
 </div>
   </div>
   <div class="col">
-  <div class="card" style="width: 17rem;">
-  <img src="img/download.jpg" class="card-img-top" alt="..." width="500">
+  <div class="card" style="width: 17rem; height:23rem">
+  <img src="img/annapurna.jpg" class="card-img-top" alt="..." width="500">
   <div class="card-body">
   <span>Kathmandu, Nepal<span>
-    <h5 class="card-title">Everest Hotel</h5>
+    <h5 class="card-title">Annapurna Hotel</h5>
     <p class="card-text">$200 per night</p>
-    <a href="#" class="btn btn-primary">Details</a>
+    <!-- <a href="#" class="btn btn-primary">Details</a> -->
   </div>
 </div>
   </div>
   <div class="col">
-  <div class="card" style="width: 17rem;">
-  <img src="img/download.jpg" class="card-img-top" alt="..." width="500">
+  <div class="card" style="width: 17rem; height:23rem">
+  <img src="img/dwarika.jpg" class="card-img-top" alt="..." width="500">
   <div class="card-body">
   <span>Kathmandu, Nepal<span>
-    <h5 class="card-title">Everest Hotel</h5>
+    <h5 class="card-title">Dwarika Hotel</h5>
     <p class="card-text">$200 per night</p>
-    <a href="#" class="btn btn-primary">Details</a>
+    <!-- <a href="#" class="btn btn-primary">Details</a> -->
   </div>
 </div>
   </div>

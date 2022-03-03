@@ -9,6 +9,20 @@ if($_SESSION['is_adminlogin']){
 }else{
     echo "<script> location.href='adminlogin.php'</script>";
 }
+$sql = "SELECT max(id) FROM reg_tb";
+$result = $conn->query($sql);
+$row = $result->fetch_row();
+$submitrequest = $row[0]; 
+
+// $sql = "SELECT max(id) FROM booking";
+// $result = $conn->query($sql);
+// $row = $result->fetch_row();
+// $booking = $row[0]; 
+
+$sql = "SELECT max(id) FROM hotels";
+$result = $conn->query($sql);
+$row = $result->fetch_row();
+$hotel = $row[0]; 
 ?>
 
 
@@ -18,8 +32,8 @@ if($_SESSION['is_adminlogin']){
                         <div class="card text-white bg-danger mb-3" style="max-width:18rem;">
                             <div class="card-header">Users</div>
                             <div class="card-body">
-                                <h4 class="card-title">43</h4>
-                                <a class="btn text-white" href="#">View</a>
+                                <h4 class="card-title"><?php echo $submitrequest;?></h4>
+                                <a class="btn text-white" href="customer_details.php">View</a>
                             </div>
                         </div>
                     </div>
@@ -27,8 +41,8 @@ if($_SESSION['is_adminlogin']){
                         <div class="card text-white bg-success mb-3" style="max-width:18rem;">
                             <div class="card-header">Bookings</div>
                             <div class="card-body">
-                                <h4 class="card-title">23</h4>
-                                <a class="btn text-white" href="#">View</a>
+                                <h4 class="card-title">Booking</h4>
+                                <a class="btn text-white" href="bookings.php">View</a>
                             </div>
                         </div>
                     </div>
@@ -36,8 +50,8 @@ if($_SESSION['is_adminlogin']){
                         <div class="card text-white bg-info mb-3" style="max-width:18rem;">
                             <div class="card-header">Hotels</div>
                             <div class="card-body">
-                                <h4 class="card-title">13</h4>
-                                <a class="btn text-white" href="#">View</a>
+                                <h4 class="card-title"><?php echo $hotel;?></h4>
+                                <a class="btn text-white" href="hotels.php">View</a>
                             </div>
                         </div>
                     </div>

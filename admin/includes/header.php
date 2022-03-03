@@ -33,7 +33,7 @@
                         <i class="fas fa-tachometer-alt"></i>Dashboard</a></li>
                         <li class="nav-item"><a class="nav-link <?php if(PAGE == 'hotels'){echo 'active';} ?>" href="hotel.php">
                         <i class="fas fa-hotel"></i>Hotels</a></li>
-                        <li class="nav-item"><a class="nav-link <?php if(PAGE == 'bookings'){echo 'active';} ?>" href="bookings.php">
+                        <li class="nav-item"><a class="nav-link <?php if(PAGE == 'bookings'){echo 'active';} ?>" href="booking_master.php">
                         <i class="fas fa-align-center"></i>Bookings</a></li>
                         <li class="nav-item"><a class="nav-link <?php if(PAGE == 'bookings'){echo 'active';} ?>" href="room_type.php">
                         <i class="fas fa-align-center"></i>Rooms</a></li>

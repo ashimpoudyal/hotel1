@@ -17,17 +17,14 @@
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th>ID</th>
-                                    <th>Area</th>
-                                    <th>City</th>
-                                    <th>Country</th>
-                                    <th>Hotel Overview</th>
-                                    <th>Property Name</th>
-                                    <th>Property Type</th>
+                                <th>ID</th>
+                                    <th>Hotel Name</th>
+                                    <th>Location</th>
+                                    <th>Description</th>
                                     <th>Image</th>
                                     <th>Price</th>
-                                    <th>Update</th>
-                                    <th>Delete</th>
+                                  
+                                    
 
 
                                 </tr>
@@ -43,17 +40,17 @@
                                         ?>
                                     <tr> 
                                         <td><?php echo $row['id'];?></td>
-                                        <td><?php echo $row['area'];?></td>
-                                        <td><?php echo $row['city'];?></td>
-                                        <td><?php echo $row['country'];?></td>
-                                        <td><?php echo $row['hotel_overview'];?></td>
-                                        <td><?php echo $row['property_name'];?></td>
-                                        <td><?php echo $row['property_type'];?></td>
-                                 
+                                        <td><?php echo $row['hotelname'];?></td>
+                                        <td><?php echo $row['location'];?></td>
+                                        <td><?php echo $row['description'];?></td>
                                         <td>
-                                            <img src="<?php echo "../img/".$row['image']; ?>" width="100px" alt="Img">
+                                            <img src="<?php echo "/img".$row['image']; ?>" width="100px" alt="Img">
                                         </td>
                                         <td><?php echo $row['price'];?></td>
+                                        
+                                 
+                                        
+                                        
                                         <td>
                                             <form action="edit_hotel.php" method="POST">
                                             <input type="hidden" name="edit_id" value="<?php echo $row['id'];?>">

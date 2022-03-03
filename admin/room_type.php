@@ -1,7 +1,7 @@
 <?php 
     define('TITLE', 'Room');
     include('../dbConnection.php');
-    include('includes/header.php');
+    // include('includes/header.php');
     
 
 ?>
@@ -62,7 +62,7 @@
                                         <td><?php echo $row['hotel_id'];?></td>
                                         <td><?php echo $row['room_type'];?></td>
                                         <td>
-                                            <img src="<?php echo "../img/".$row['img']; ?>" width="100px" alt="Img">
+                                            <img src="<?php echo "img/".$row['img']; ?>" width="100px" alt="Img">
                                         </td>
                                         <td><?php echo $row['room_desc'];?></td>
                                         <td>

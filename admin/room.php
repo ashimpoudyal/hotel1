@@ -1,7 +1,7 @@
 <?php 
 
 include('../dbConnection.php');
-include('includes/header.php');
+// include('includes/header.php');
 
 session_start();
 if($_SESSION['is_adminlogin']){
@@ -31,11 +31,13 @@ $result=mysqli_query($conn,"SELECT * FROM hotels");
 while($row=mysqli_fetch_array($result)){
     ?>
    <tr> 
-       <td><?php echo $row['property_name'];?></td>
+       <td><?php echo $row['hotelname'];?></td>
        <td>
        <form action="add_room.php">
            <input type="submit" name="add_rooms" class="btn btn-primary" value="Add Rooms">
            <input type="hidden" name="id" value="<?php echo $row['id']?>">
+           <input type="hidden" name="hotelname" value="<?php echo $row['hotelname']?>">
+           <input type="hidden" name="price" value="<?php echo $row['price']?>">
        </form>
     </td>
    

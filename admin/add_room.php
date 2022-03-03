@@ -1,16 +1,25 @@
 <?php
 session_start();
-        if(isset($_GET['id']))
+        
+    // include("includes/header.php");
+    include('../dbConnection.php');
+    if(isset($_GET['id']))
         {
             $_SESSION['id']=$_GET['id'];
         }
-    include("includes/header.php");
-    include('../dbConnection.php');
+        if(isset($_GET['hotelname']))
+        {
+            $_SESSION['hotelname']=$_GET['hotelname'];
+        }
+        if(isset($_GET['price']))
+        {
+            $_SESSION['price']=$_GET['price'];
+        }
 
     $flag = 0;
 
     if(isset($_POST['submit'])){
-       $result = mysqli_query($conn,"insert into room(hotel_id,room_type,img,room_desc)values('$_SESSION[id]','$_POST[room_type]','$_POST[img]','$_POST[room_desc]')");
+       $result = mysqli_query($conn,"insert into room(hotel_id,hotel_name,price,room_type,img,room_desc)values('$_SESSION[id]','$_SESSION[hotelname]','$_SESSION[price]','$_POST[room_type]','$_POST[img]','$_POST[room_desc]')");
         if($result){
             $flag = 1;
         }
